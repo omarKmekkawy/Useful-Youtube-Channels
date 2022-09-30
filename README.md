@@ -26,6 +26,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | Andreas Spiess     | English  | [Link](https://www.youtube.com/c/AndreasSpiess) |
+| 2 | SuperHouseTV | English | [LINK](https://www.youtube.com/c/SuperHouseTV) |
 
 
 # Mechanical Design & Fabrication
