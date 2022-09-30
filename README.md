@@ -21,6 +21,12 @@ Useful Youtube Channels for Electronics and Mechanical
 | 6 | Omar Mekkawy | Arabic | [LINK](https://www.youtube.com/OmarMekkawy) |
 
 
+# IOT
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | Andreas Spiess     | English  | [Link](https://www.youtube.com/c/AndreasSpiess) |
+
+
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
