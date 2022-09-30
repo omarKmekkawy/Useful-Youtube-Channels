@@ -11,7 +11,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 4 | All Electronics Channel | English | [Link](https://www.youtube.com/c/AllElectronicsChannel) |
 | 5 | Omar Mekkawy | Arabic | [Link](https://www.youtube.com/OmarMekkawy) |
 | 6 | Mohamed Elshamy | Arabic | [Link](https://www.youtube.com/channel/UCYbfrL-4UoW3nm89uRI4WbQ) |
-
+| 7 | EEVblog  | English | [Link](https://www.youtube.com/c/EevblogDave/) |
+| 8 | EEVblog2 | English | [Link](https://www.youtube.com/user/eevblog2/) |
 # Embedded Systems
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
