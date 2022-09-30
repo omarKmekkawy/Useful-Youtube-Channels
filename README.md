@@ -28,13 +28,17 @@ Useful Youtube Channels for Electronics and Mechanical
 | 11 | Mohamed Yousef محمد يوسف | Arabic | [Link](https://www.youtube.com/c/MohamedYousef2) |
 
 
+
 # IOT
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | Andreas Spiess     | English  | [Link](https://www.youtube.com/c/AndreasSpiess) |
 | 2 | SuperHouseTV | English | [Link](https://www.youtube.com/c/SuperHouseTV) |
 
-
+# Do It Yourself (DIY)
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | Eslam's Lab  | N/A | [Link](https://www.youtube.com/c/EslamsLab) |
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
