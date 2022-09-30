@@ -23,6 +23,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 6 | Abdallah Ali Abdallah | Arabic | [LINL](https://www.youtube.com/channel/UC1BVRyF4COwzQmvfC3MoOEg) |
 | 7 | Omar Mekkawy | Arabic | [Link](https://www.youtube.com/OmarMekkawy) |
 | 8 | Mohamed Elshamy | Arabic | [Link](https://www.youtube.com/channel/UCYbfrL-4UoW3nm89uRI4WbQ) |
+| 9 | Islam Haggag | Arabic | [LINK](https://www.youtube.com/channel/UCNDQMIV2Dq5sAQ8hj6BwSzw) |
 
 
 # IOT
