@@ -7,9 +7,10 @@ Useful Youtube Channels for Electronics and Mechanical
 | - | ------------ | -------- | ---- |
 | 1 | Walid Issa   | Arabic   | [Link](https://www.youtube.com/channel/UCUNpxcO109gQx7yYxAtXHmA) |
 | 2 | Walid Issa Plus | English | [Link](https://www.youtube.com/c/AllElectronicsChannel/videos) |
-| 3 | All Electronics Channel | English | [Link](https://www.youtube.com/c/AllElectronicsChannel) |
-| 4 | Omar Mekkawy | Arabic | [LINK](https://www.youtube.com/OmarMekkawy) |
-| 5 | Mohamed Elshamy | Arabic | [LINK](https://www.youtube.com/channel/UCYbfrL-4UoW3nm89uRI4WbQ) |
+| 3 | Walid Balid | Arabic | [LINK](https://www.youtube.com/c/WalidBalid/) |
+| 4 | All Electronics Channel | English | [Link](https://www.youtube.com/c/AllElectronicsChannel) |
+| 5 | Omar Mekkawy | Arabic | [LINK](https://www.youtube.com/OmarMekkawy) |
+| 6 | Mohamed Elshamy | Arabic | [LINK](https://www.youtube.com/channel/UCYbfrL-4UoW3nm89uRI4WbQ) |
 
 # Embedded Systems
 | # | Channel Name | Language | Link |
