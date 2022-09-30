@@ -7,10 +7,10 @@ Useful Youtube Channels for Electronics and Mechanical
 | - | ------------ | -------- | ---- |
 | 1 | Walid Issa   | Arabic   | [Link](https://www.youtube.com/channel/UCUNpxcO109gQx7yYxAtXHmA) |
 | 2 | Walid Issa Plus | English | [Link](https://www.youtube.com/c/AllElectronicsChannel/videos) |
-| 3 | Walid Balid | Arabic | [LINK](https://www.youtube.com/c/WalidBalid/) |
+| 3 | Walid Balid | Arabic | [Link](https://www.youtube.com/c/WalidBalid/) |
 | 4 | All Electronics Channel | English | [Link](https://www.youtube.com/c/AllElectronicsChannel) |
-| 5 | Omar Mekkawy | Arabic | [LINK](https://www.youtube.com/OmarMekkawy) |
-| 6 | Mohamed Elshamy | Arabic | [LINK](https://www.youtube.com/channel/UCYbfrL-4UoW3nm89uRI4WbQ) |
+| 5 | Omar Mekkawy | Arabic | [Link](https://www.youtube.com/OmarMekkawy) |
+| 6 | Mohamed Elshamy | Arabic | [Link](https://www.youtube.com/channel/UCYbfrL-4UoW3nm89uRI4WbQ) |
 
 # Embedded Systems
 | # | Channel Name | Language | Link |
@@ -19,17 +19,17 @@ Useful Youtube Channels for Electronics and Mechanical
 | 2 | Embedded Training from Amr Ali | Arabic | [Link](https://www.youtube.com/channel/UC5NTpGcnlx3XwGAlFaYJnBg/videos) |
 | 3 | Mohamed Zaghloul online courses | Arabic | [Link](https://www.youtube.com/channel/UCvF_QgqLpNm-LNi-GANvs_w) |
 | 4 | Khaled Magdy | Arabic | [Link](https://www.youtube.com/channel/UC5Rg0IiTHhtd8qs-DNBZBDQ) |
-| 5 | Ahmed Abd El-Ghafar Mohammed | Arabic | [LINK](https://www.youtube.com/channel/UCQp1_vloxxLu7fMRw-A6V8A ) |
+| 5 | Ahmed Abd El-Ghafar Mohammed | Arabic | [Link](https://www.youtube.com/channel/UCQp1_vloxxLu7fMRw-A6V8A ) |
 | 6 | Abdallah Ali Abdallah | Arabic | [LINL](https://www.youtube.com/channel/UC1BVRyF4COwzQmvfC3MoOEg) |
-| 7 | Omar Mekkawy | Arabic | [LINK](https://www.youtube.com/OmarMekkawy) |
-| 8 | Mohamed Elshamy | Arabic | [LINK](https://www.youtube.com/channel/UCYbfrL-4UoW3nm89uRI4WbQ) |
+| 7 | Omar Mekkawy | Arabic | [Link](https://www.youtube.com/OmarMekkawy) |
+| 8 | Mohamed Elshamy | Arabic | [Link](https://www.youtube.com/channel/UCYbfrL-4UoW3nm89uRI4WbQ) |
 
 
 # IOT
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | Andreas Spiess     | English  | [Link](https://www.youtube.com/c/AndreasSpiess) |
-| 2 | SuperHouseTV | English | [LINK](https://www.youtube.com/c/SuperHouseTV) |
+| 2 | SuperHouseTV | English | [Link](https://www.youtube.com/c/SuperHouseTV) |
 
 
 # Mechanical Design & Fabrication
