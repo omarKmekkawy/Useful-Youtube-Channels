@@ -16,6 +16,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 1 | Ahmed Eldeeb   | Arabic   | [Link](https://www.youtube.com/channel/UC02vVZpySDPNRZvfju1tA8w) |
 | 2 | Embedded Training from Amr Ali | Arabic | [Link](https://www.youtube.com/channel/UC5NTpGcnlx3XwGAlFaYJnBg/videos) |
 | 3 | Mohamed Zaghloul online courses | Arabic | [Link](https://www.youtube.com/channel/UCvF_QgqLpNm-LNi-GANvs_w) |
+| 4 | Khaled Magdy | Arabic | [Link](https://www.youtube.com/channel/UC5Rg0IiTHhtd8qs-DNBZBDQ) |
 
 
 # Mechanical Design & Fabrication
