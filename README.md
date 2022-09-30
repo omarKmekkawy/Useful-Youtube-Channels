@@ -24,6 +24,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 7 | Omar Mekkawy | Arabic | [Link](https://www.youtube.com/OmarMekkawy) |
 | 8 | Mohamed Elshamy | Arabic | [Link](https://www.youtube.com/channel/UCYbfrL-4UoW3nm89uRI4WbQ) |
 | 9 | Islam Haggag | Arabic | [LINK](https://www.youtube.com/channel/UCNDQMIV2Dq5sAQ8hj6BwSzw) |
+| 10 | فكره Idea | Arabic | [LINK](https://www.youtube.com/channel/UCbZ7PLd5LAnje1hpyoiRW0A) |
 
 
 # IOT
