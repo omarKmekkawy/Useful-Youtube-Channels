@@ -57,7 +57,11 @@ Useful Youtube Channels for Electronics and Mechanical
 | - | ------------ | -------- | ---- |
 | 1 | Joe Grand    | English  | [Link](https://www.youtube.com/c/JoeGrand) |
 | 2 | RECESSIM     | English  | [Link](https://www.youtube.com/c/RECESSIM) |
- 
+
+# Vintage Electronics - Hardware Reverse Engineering - Repair
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | CuriousMarc  | English  | [Link](https://www.youtube.com/c/CuriousMarc) |
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
