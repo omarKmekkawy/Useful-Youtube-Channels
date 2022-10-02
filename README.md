@@ -28,6 +28,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 9 | Islam Haggag | Arabic | [Link](https://www.youtube.com/channel/UCNDQMIV2Dq5sAQ8hj6BwSzw) |
 | 10 | فكره Idea | Arabic | [Link](https://www.youtube.com/channel/UCbZ7PLd5LAnje1hpyoiRW0A) |
 | 11 | Mohamed Yousef محمد يوسف | Arabic | [Link](https://www.youtube.com/c/MohamedYousef2) |
+| 12 | Moatasem El Sayed      | Arabic  | [Link](https://www.youtube.com/channel/UCHTjN5FEITwRyb4IA3F8c4Q) |
 
 # IOT
 | # | Channel Name | Language | Link |
