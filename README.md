@@ -29,13 +29,16 @@ Useful Youtube Channels for Electronics and Mechanical
 | 10 | فكره Idea | Arabic | [Link](https://www.youtube.com/channel/UCbZ7PLd5LAnje1hpyoiRW0A) |
 | 11 | Mohamed Yousef محمد يوسف | Arabic | [Link](https://www.youtube.com/c/MohamedYousef2) |
 
-
-
 # IOT
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | Andreas Spiess     | English  | [Link](https://www.youtube.com/c/AndreasSpiess) |
 | 2 | SuperHouseTV | English | [Link](https://www.youtube.com/c/SuperHouseTV) |
+
+# Fixing Electronics
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | NorthridgeFix      | English  | [Link](https://www.youtube.com/c/NorthridgeFix) |
 
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
