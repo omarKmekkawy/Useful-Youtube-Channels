@@ -40,6 +40,11 @@ Useful Youtube Channels for Electronics and Mechanical
 | - | ------------ | -------- | ---- |
 | 1 | NorthridgeFix      | English  | [Link](https://www.youtube.com/c/NorthridgeFix) |
 
+# Lithium Batteries - DIY Electric Vehicle
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | jehugarcia      | English  | [Link](https://www.youtube.com/c/jehugarcia) |
+ 
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
