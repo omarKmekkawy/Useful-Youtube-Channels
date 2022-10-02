@@ -44,6 +44,12 @@ Useful Youtube Channels for Electronics and Mechanical
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | jehugarcia      | English  | [Link](https://www.youtube.com/c/jehugarcia) |
+
+# Embedded Linux
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | Moatasem El Sayed      | English  | [Link](https://www.youtube.com/channel/UCHTjN5FEITwRyb4IA3F8c4Q) |
+| 2 | Jeff Geerling      | English  | [Link](https://www.youtube.com/c/JeffGeerling) |
  
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
