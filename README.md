@@ -51,6 +51,12 @@ Useful Youtube Channels for Electronics and Mechanical
 | - | ------------ | -------- | ---- |
 | 1 | Moatasem El Sayed      | Arabic  | [Link](https://www.youtube.com/channel/UCHTjN5FEITwRyb4IA3F8c4Q) |
 | 2 | Jeff Geerling      | English  | [Link](https://www.youtube.com/c/JeffGeerling) |
+
+# Hardware Hacking
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | Joe Grand    | English  | [Link](https://www.youtube.com/c/JoeGrand) |
+| 2 | RECESSIM     | English  | [Link](https://www.youtube.com/c/RECESSIM) |
  
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
