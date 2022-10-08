@@ -40,6 +40,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | NorthridgeFix      | English  | [Link](https://www.youtube.com/c/NorthridgeFix) |
+| 2 | StezStix Fix? | English | [Link](https://www.youtube.com/c/StezStixFix) |
 
 # Lithium Batteries - DIY Electric Vehicle
 | # | Channel Name | Language | Link |
