@@ -23,6 +23,12 @@ Useful Youtube Channels for Electronics and Mechanical
 | 16 | HardwareGuruHacks | English | [Link](https://www.youtube.com/channel/UCgpGShg2Qx3PkMUaRbYHRTg) |
 | 17 | RF Man Channel | English | [Link](https://www.youtube.com/channel/UC7r5QeuynhXudskQDl7J45w) |
 | 18 | Orin Huber | English | [Link](https://www.youtube.com/user/orinhuber) |
+| 19 | xDevs_com | English | [Link](https://www.youtube.com/c/xDevscom_EE) |
+| 20 | Elecami Wolf | English | [Link](https://www.youtube.com/c/ElecamiWolf) |
+| 21 | Ibrahim Elkhatib | Arabic | [Link](https://www.youtube.com/c/IbrahimElkhatib32) |
+| 22 | Lockdown Electronics | English | [Link](https://www.youtube.com/c/LockdownElectronics) |
+| 23 | Mr.Leamerz | English | [Link](https://www.youtube.com/c/JasonLeaman) |
+
 
 ## Digital Design
 | # | Channel Name | Language | Link |
@@ -46,6 +52,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 11 | Mohamed Yousef محمد يوسف | Arabic | [Link](https://www.youtube.com/c/MohamedYousef2) |
 | 12 | Moatasem El Sayed      | Arabic  | [Link](https://www.youtube.com/channel/UCHTjN5FEITwRyb4IA3F8c4Q) |
 | 13 | CaliBeta | English | [Link](https://www.youtube.com/c/CaliBeta) |
+| 14 | Mohamed A.Elhay | Arabic | [Link](https://www.youtube.com/channel/UCxBuAlioJ4ce5DvDHe5GPfQ) |
+| 15 | Firas Faham فراس فحام | English | [Link](youtube.com/user/fifaham) |
 
 # IOT
 | # | Channel Name | Language | Link |
@@ -72,6 +80,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | jehugarcia      | English  | [Link](https://www.youtube.com/c/jehugarcia) |
+| 2 | Electrified Veronika | English | [Link](https://www.youtube.com/c/ElectrifiedVeronika) |
 
 # Embedded Linux
 | # | Channel Name | Language | Link |
@@ -102,6 +111,11 @@ Useful Youtube Channels for Electronics and Mechanical
 | 1 | Clough42     | English  | [Link](https://www.youtube.com/c/Clough42) |
 | 2 | Alec Steel   | English  | [Link](https://www.youtube.com/c/AlecSteele) |
 | 3 | JohnnyQ90    | English  | [Link](https://www.youtube.com/c/johnnyq90) |
+
+# Mechatronics - Robotics
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | MineProbe - RDI Project     | English  | [Link](https://www.youtube.com/channel/UChEuyu1jeKjJIL0EVrkmS4w) |
 
 # Physics
 | # | Channel Name | Language | Link |
