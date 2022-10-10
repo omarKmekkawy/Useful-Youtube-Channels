@@ -30,6 +30,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 23 | Mr.Leamerz | English | [Link](https://www.youtube.com/c/JasonLeaman) |
 | 24 | Adrian S | English | [Link](https://www.youtube.com/user/adriansmith31) |
 | 25 | Amar Mohamed | Arabic | [Link](https://www.youtube.com/channel/UCbYeE8lAx_hE1F1l3doflYg) |
+| 26 | Ahmed Halawa | Arabic | [Link](https://www.youtube.com/c/AhmedHalawa) |
 
 
 ## Digital Design
@@ -60,6 +61,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 17 | Amgad Samir | Arabic | [Link](https://www.youtube.com/channel/UCMf8ZsyHCnU-ZpKbMFFNH_Q) |
 | 18 | Tagh_reed Said | Arabic | [Link](https://www.youtube.com/channel/UCj7ita0qpnZ-9VIqKPtneFA) |
 | 19 | Karl Makes Music | English | [Link](https://www.youtube.com/channel/UCsxo6OpAQ1Pee4nSqhdMYCQ) |
+| 20 | Life with David | [Link](https://www.youtube.com/c/LifewithDavid1) |
+
 
 # IOT
 | # | Channel Name | Language | Link |
@@ -82,6 +85,10 @@ Useful Youtube Channels for Electronics and Mechanical
 | 8 | Peepaw McDonald | English | [Link](https://www.youtube.com/channel/UCWP9jc_KSiMf_ZLoEVGV5Vg)
 | 9 | B&C Connection LLC | English | [Link](https://www.youtube.com/c/ChrisLongPhoneRepair) |
 | 10 | iPad Rehab | English | [Link](https://www.youtube.com/c/Mendonipadrehab) |
+| 11 | Jonny Fix | English | [Link](https://www.youtube.com/user/JonnyFixy) |
+| 12 | iPhone Service Malaysia | English | [Link](https://www.youtube.com/c/iPhoneServiceMalaysia) |
+| 13 | Orbiter Electronics | English | [Link](https://www.youtube.com/c/OrbiterElectronics) |
+| 14 | NFM | English | [Link](https://www.youtube.com/c/NearFarMedia) |
 
 
 # Lithium Batteries - DIY Electric Vehicle
@@ -109,6 +116,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | Emix Code  | Arabic  | [Link](https://www.youtube.com/c/EmixCode) |
+| 2 | Dorian Develops | English | [Link](https://www.youtube.com/c/DorianDevelops) |
 
 # Vintage Electronics - Hardware Reverse Engineering - Repair
 | # | Channel Name | Language | Link |
@@ -117,6 +125,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 2 | Audiophile Vintage - Marten Electric | English | [Link](https://www.youtube.com/c/MartenElectric) |
 | 3 | THIS MUSEUM IS (NOT) OBSOLETE | English | [Link](https://www.youtube.com/c/THISMUSEUMISNOTOBSOLETE) |
 | 4 | Usagi Electric | English | [Link](https://www.youtube.com/c/Nakazoto) |
+| 5 | BW's Technoshed | English | [Link](https://www.youtube.com/c/BWsTechnoshed) |
+| 6 | shango066 | English | [Link](https://www.youtube.com/user/shango066) |
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
@@ -134,6 +144,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | MineProbe - RDI Project     | English  | [Link](https://www.youtube.com/channel/UChEuyu1jeKjJIL0EVrkmS4w) |
+| 2 | simplefoc | English | [Link](https://www.youtube.com/user/theskura) |
 
 # Physics
 | # | Channel Name | Language | Link |
