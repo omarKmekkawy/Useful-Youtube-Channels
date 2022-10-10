@@ -28,6 +28,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 21 | Ibrahim Elkhatib | Arabic | [Link](https://www.youtube.com/c/IbrahimElkhatib32) |
 | 22 | Lockdown Electronics | English | [Link](https://www.youtube.com/c/LockdownElectronics) |
 | 23 | Mr.Leamerz | English | [Link](https://www.youtube.com/c/JasonLeaman) |
+| 24 | Adrian S | English | [Link](https://www.youtube.com/user/adriansmith31) |
+| 25 | Amar Mohamed | Arabic | [Link](https://www.youtube.com/channel/UCbYeE8lAx_hE1F1l3doflYg) |
 
 
 ## Digital Design
@@ -54,12 +56,18 @@ Useful Youtube Channels for Electronics and Mechanical
 | 13 | CaliBeta | English | [Link](https://www.youtube.com/c/CaliBeta) |
 | 14 | Mohamed A.Elhay | Arabic | [Link](https://www.youtube.com/channel/UCxBuAlioJ4ce5DvDHe5GPfQ) |
 | 15 | Firas Faham فراس فحام | English | [Link](youtube.com/user/fifaham) |
+| 16 | Amar Mohamed | Arabic | [Link](https://www.youtube.com/channel/UCbYeE8lAx_hE1F1l3doflYg) |
+| 17 | Amgad Samir | Arabic | [Link](https://www.youtube.com/channel/UCMf8ZsyHCnU-ZpKbMFFNH_Q) |
+| 18 | Tagh_reed Said | Arabic | [Link](https://www.youtube.com/channel/UCj7ita0qpnZ-9VIqKPtneFA) |
+| 19 | Karl Makes Music | English | [Link](https://www.youtube.com/channel/UCsxo6OpAQ1Pee4nSqhdMYCQ) |
 
 # IOT
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | Andreas Spiess     | English  | [Link](https://www.youtube.com/c/AndreasSpiess) |
 | 2 | SuperHouseTV | English | [Link](https://www.youtube.com/c/SuperHouseTV) |
+| 3 | digiblurDIY | English | [Link](https://www.youtube.com/c/digiblurDIY) |
+| 4 | NotEnoughTECH | English | [Link](https://www.youtube.com/c/Notenoughtech0) |
 
 # Fixing Electronics - Repair
 | # | Channel Name | Language | Link |
@@ -97,14 +105,24 @@ Useful Youtube Channels for Electronics and Mechanical
 | 3 | Flashback Team | English | [Link](https://www.youtube.com/c/FlashbackTeam) |
 
 
+# Programming
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | Emix Code  | Arabic  | [Link](https://www.youtube.com/c/EmixCode) |
+
 # Vintage Electronics - Hardware Reverse Engineering - Repair
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | CuriousMarc  | English  | [Link](https://www.youtube.com/c/CuriousMarc) |
+| 2 | Audiophile Vintage - Marten Electric | English | [Link](https://www.youtube.com/c/MartenElectric) |
+| 3 | THIS MUSEUM IS (NOT) OBSOLETE | English | [Link](https://www.youtube.com/c/THISMUSEUMISNOTOBSOLETE) |
+| 4 | Usagi Electric | English | [Link](https://www.youtube.com/c/Nakazoto) |
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | Eslam's Lab  | N/A | [Link](https://www.youtube.com/c/EslamsLab) |
+| 2 | Becky Stern | English | [Link](https://www.youtube.com/c/BeckyStern) |
+| 3 | Estefannie | English | [Link](https://www.youtube.com/c/Estefanniegg/videos) |
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
