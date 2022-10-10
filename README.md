@@ -13,8 +13,23 @@ Useful Youtube Channels for Electronics and Mechanical
 | 6 | Mohamed Elshamy | Arabic | [Link](https://www.youtube.com/channel/UCYbfrL-4UoW3nm89uRI4WbQ) |
 | 7 | EEVblog  | English | [Link](https://www.youtube.com/c/EevblogDave/) |
 | 8 | EEVblog2 | English | [Link](https://www.youtube.com/user/eevblog2/) |
-| 9 | Androkavo | English | [Link](https://www.youtube.com/c/Androkavo/) |
-| 10 | Julian Ilett | English | [Link](https://www.youtube.com/c/JulianIlett) |
+| 9 | Leo's Bag of Tricks | English | [Link](https://www.youtube.com/channel/UCe1bjEcBichpiAMhExh0NiQ) |
+| 10 | The Signal Path | English | [Link](https://www.youtube.com/c/Thesignalpath) |
+| 11 | Androkavo | English | [Link](https://www.youtube.com/c/Androkavo/) |
+| 12 | Julian Ilett | English | [Link](https://www.youtube.com/c/JulianIlett) |
+| 13 | MyVanitar | English | [Link](https://www.youtube.com/c/MyVanitar) |
+| 14 | Ensatek Solutions | English | [Link](https://www.youtube.com/c/SolutionStudio) |
+| 15 | EETEngineer | English | [Link](https://www.youtube.com/channel/UCig1fhi3v4793OjWgHbio-w) |
+| 16 | HardwareGuruHacks | English | [Link](https://www.youtube.com/channel/UCgpGShg2Qx3PkMUaRbYHRTg) |
+| 17 | RF Man Channel | English | [Link](https://www.youtube.com/channel/UC7r5QeuynhXudskQDl7J45w) |
+| 18 | Orin Huber | English | [Link](https://www.youtube.com/user/orinhuber) |
+
+## Digital Design
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | Ovisign Verilog HDL Tutorials   | English   | [Link](https://www.youtube.com/channel/UC_0ckp79beB79tnN0KQHXSQ) |
+
+
 # Embedded Systems
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
@@ -30,6 +45,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 10 | فكره Idea | Arabic | [Link](https://www.youtube.com/channel/UCbZ7PLd5LAnje1hpyoiRW0A) |
 | 11 | Mohamed Yousef محمد يوسف | Arabic | [Link](https://www.youtube.com/c/MohamedYousef2) |
 | 12 | Moatasem El Sayed      | Arabic  | [Link](https://www.youtube.com/channel/UCHTjN5FEITwRyb4IA3F8c4Q) |
+| 13 | CaliBeta | English | [Link](https://www.youtube.com/c/CaliBeta) |
 
 # IOT
 | # | Channel Name | Language | Link |
@@ -37,7 +53,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 1 | Andreas Spiess     | English  | [Link](https://www.youtube.com/c/AndreasSpiess) |
 | 2 | SuperHouseTV | English | [Link](https://www.youtube.com/c/SuperHouseTV) |
 
-# Fixing Electronics
+# Fixing Electronics - Repair
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | NorthridgeFix      | English  | [Link](https://www.youtube.com/c/NorthridgeFix) |
@@ -45,6 +61,12 @@ Useful Youtube Channels for Electronics and Mechanical
 | 3 | Mohamed Elbhoty | Arabic | [Link](https://www.youtube.com/channel/UCAseUIvIgowLYs-Yb-dekrQ) |
 | 4 | Defpom's Electronics Repair | English | [Link](https://www.youtube.com/c/TheDefpom) |
 | 5 | Jerry Walker | English | [Link](https://www.youtube.com/c/JerryWalker-JMPrecision) |
+| 6 | ANTHONYVLOG | English | [Link](https://www.youtube.com/c/ANTHONYVLOG) |
+| 7 | Autodiag OBD | English | [Link](https://www.youtube.com/channel/UC5-qf_k53dzeaYIegnlsDNg) |
+| 8 | Peepaw McDonald | English | [Link](https://www.youtube.com/channel/UCWP9jc_KSiMf_ZLoEVGV5Vg)
+| 9 | B&C Connection LLC | English | [Link](https://www.youtube.com/c/ChrisLongPhoneRepair) |
+| 10 | iPad Rehab | English | [Link](https://www.youtube.com/c/Mendonipadrehab) |
+
 
 # Lithium Batteries - DIY Electric Vehicle
 | # | Channel Name | Language | Link |
@@ -56,12 +78,15 @@ Useful Youtube Channels for Electronics and Mechanical
 | - | ------------ | -------- | ---- |
 | 1 | Moatasem El Sayed      | Arabic  | [Link](https://www.youtube.com/channel/UCHTjN5FEITwRyb4IA3F8c4Q) |
 | 2 | Jeff Geerling      | English  | [Link](https://www.youtube.com/c/JeffGeerling) |
+| 3 | Edje Electronics | English | [Link](https://www.youtube.com/c/EdjeElectronics) |
 
 # Hardware Hacking
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | Joe Grand    | English  | [Link](https://www.youtube.com/c/JoeGrand) |
 | 2 | RECESSIM     | English  | [Link](https://www.youtube.com/c/RECESSIM) |
+| 3 | Flashback Team | English | [Link](https://www.youtube.com/c/FlashbackTeam) |
+
 
 # Vintage Electronics - Hardware Reverse Engineering - Repair
 | # | Channel Name | Language | Link |
@@ -77,3 +102,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 1 | Clough42     | English  | [Link](https://www.youtube.com/c/Clough42) |
 | 2 | Alec Steel   | English  | [Link](https://www.youtube.com/c/AlecSteele) |
 | 3 | JohnnyQ90    | English  | [Link](https://www.youtube.com/c/johnnyq90) |
+
+# Physics
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | Veritasium   | English  | [Link](https://www.youtube.com/c/veritasium) |
