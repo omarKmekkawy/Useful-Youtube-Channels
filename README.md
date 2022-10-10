@@ -14,6 +14,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 7 | EEVblog  | English | [Link](https://www.youtube.com/c/EevblogDave/) |
 | 8 | EEVblog2 | English | [Link](https://www.youtube.com/user/eevblog2/) |
 | 9 | Androkavo | English | [Link](https://www.youtube.com/c/Androkavo/) |
+| 10 | Julian Ilett | English | [Link](https://www.youtube.com/c/JulianIlett) |
 # Embedded Systems
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
@@ -41,6 +42,9 @@ Useful Youtube Channels for Electronics and Mechanical
 | - | ------------ | -------- | ---- |
 | 1 | NorthridgeFix      | English  | [Link](https://www.youtube.com/c/NorthridgeFix) |
 | 2 | StezStix Fix? | English | [Link](https://www.youtube.com/c/StezStixFix) |
+| 3 | Mohamed Elbhoty | Arabic | [Link](https://www.youtube.com/channel/UCAseUIvIgowLYs-Yb-dekrQ) |
+| 4 | Defpom's Electronics Repair | English | [Link](https://www.youtube.com/c/TheDefpom) |
+| 5 | Jerry Walker | English | [Link](https://www.youtube.com/c/JerryWalker-JMPrecision) |
 
 # Lithium Batteries - DIY Electric Vehicle
 | # | Channel Name | Language | Link |
