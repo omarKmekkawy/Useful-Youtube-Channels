@@ -62,6 +62,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 18 | Tagh_reed Said | Arabic | [Link](https://www.youtube.com/channel/UCj7ita0qpnZ-9VIqKPtneFA) |
 | 19 | Karl Makes Music | English | [Link](https://www.youtube.com/channel/UCsxo6OpAQ1Pee4nSqhdMYCQ) |
 | 20 | Life with David | [Link](https://www.youtube.com/c/LifewithDavid1) |
+| 21 | 0033mer | English | [Link](https://www.youtube.com/user/0033mer) |
 
 
 # IOT
