@@ -72,6 +72,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 2 | SuperHouseTV | English | [Link](https://www.youtube.com/c/SuperHouseTV) |
 | 3 | digiblurDIY | English | [Link](https://www.youtube.com/c/digiblurDIY) |
 | 4 | NotEnoughTECH | English | [Link](https://www.youtube.com/c/Notenoughtech0) |
+| 5 | DrZzs | English | [Link](https://www.youtube.com/c/DrZzs) |
 
 # Fixing Electronics - Repair
 | # | Channel Name | Language | Link |
