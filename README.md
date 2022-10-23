@@ -106,6 +106,11 @@ Useful Youtube Channels for Electronics and Mechanical
 | 2 | Jeff Geerling      | English  | [Link](https://www.youtube.com/c/JeffGeerling) |
 | 3 | Edje Electronics | English | [Link](https://www.youtube.com/c/EdjeElectronics) |
 
+# HAM Radio - Amateur radio - RF
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | Tony Albus   | Arabic  | [Link](https://www.youtube.com/c/TonyAlbus) |
+
 # Hardware Hacking
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
