@@ -109,7 +109,12 @@ Useful Youtube Channels for Electronics and Mechanical
 # HAM Radio - Amateur radio - RF
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
-| 1 | Tony Albus   | Arabic  | [Link](https://www.youtube.com/c/TonyAlbus) |
+| 1 | Tony Albus   | English  | [Link](https://www.youtube.com/c/TonyAlbus) |
+
+# Special Channels & Projects I Recommend
+| # | Channel Name | Language | Link | Project |
+| - | ------------ | -------- | ---- | ------- |
+| 1 | Stephen Hawes   | English  | [Link](https://www.youtube.com/c/StephenHawesVideo) | Pick and Place Machine for SMD |
 
 # Hardware Hacking
 | # | Channel Name | Language | Link |
