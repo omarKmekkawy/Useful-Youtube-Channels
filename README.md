@@ -31,7 +31,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 24 | Adrian S | English | [Link](https://www.youtube.com/user/adriansmith31) |
 | 25 | Amar Mohamed | Arabic | [Link](https://www.youtube.com/channel/UCbYeE8lAx_hE1F1l3doflYg) |
 | 26 | Ahmed Halawa | Arabic | [Link](https://www.youtube.com/c/AhmedHalawa) |
-
+| 27 | Alan Yates | English | [Link](https://www.youtube.com/user/vk2zay) |
 
 ## Digital Design
 | # | Channel Name | Language | Link |
