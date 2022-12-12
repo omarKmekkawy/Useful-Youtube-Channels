@@ -94,7 +94,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 15 | Learn Electronics Repair | English | [Link](https://www.youtube.com/@LearnElectronicsRepair) |
 | 16 | Louis Rossmann | English | [Link](https://www.youtube.com/@rossmanngroup) |
 | 17 | Paul Daniels | English | [Link](https://www.youtube.com/@pldaniels) |
-
+| 18 | Russ Did It | English | [Link](https://www.youtube.com/@RussDidIt) |
 
 # Lithium Batteries - DIY Electric Vehicle
 | # | Channel Name | Language | Link |
