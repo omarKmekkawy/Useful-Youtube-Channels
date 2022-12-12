@@ -125,6 +125,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 1 | Joe Grand    | English  | [Link](https://www.youtube.com/c/JoeGrand) |
 | 2 | RECESSIM     | English  | [Link](https://www.youtube.com/c/RECESSIM) |
 | 3 | Flashback Team | English | [Link](https://www.youtube.com/c/FlashbackTeam) |
+| 4 | Aaron Christophel | English | [Link](https://www.youtube.com/@atc1441) |
+
 
 
 # Programming
