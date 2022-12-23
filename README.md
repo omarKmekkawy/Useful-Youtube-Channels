@@ -32,7 +32,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 25 | Amar Mohamed | Arabic | [Link](https://www.youtube.com/channel/UCbYeE8lAx_hE1F1l3doflYg) |
 | 26 | Ahmed Halawa | Arabic | [Link](https://www.youtube.com/c/AhmedHalawa) |
 | 27 | Alan Yates | English | [Link](https://www.youtube.com/user/vk2zay) |
-
+| 28 | CircuitValley | English | [Link](https://www.youtube.com/@circuitvalley) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
