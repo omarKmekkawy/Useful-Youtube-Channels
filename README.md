@@ -113,6 +113,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | Tony Albus   | English  | [Link](https://www.youtube.com/c/TonyAlbus) |
+| 2 | NA5Y | English | [Link](https://www.youtube.com/@na5y) |
 
 # Special Channels & Projects I Recommend
 | # | Channel Name | Language | Link | Project |
