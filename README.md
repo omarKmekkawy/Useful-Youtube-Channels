@@ -148,6 +148,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 5 | BW's Technoshed | English | [Link](https://www.youtube.com/c/BWsTechnoshed) |
 | 6 | shango066 | English | [Link](https://www.youtube.com/user/shango066) |
 | 7 | Peter O'Neill | English | [Link](https://www.youtube.com/@peteroneill404/videos) |
+| 8 | LGR  | English | [Link](https://www.youtube.com/user/phreakindee) |
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
