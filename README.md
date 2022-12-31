@@ -158,6 +158,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 5 | colinfurze | English | [Link](https://www.youtube.com/user/colinfurze) |
 | 6 | Essential Craftsman | English | [Link](https://www.youtube.com/@essentialcraftsman) |
 | 7 | Matthias Wandel | English | [Link](https://www.youtube.com/user/Matthiaswandel) |
+| 8 | Tom Stanton | English | [Link](https://www.youtube.com/TomStantonEngineering) |
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
