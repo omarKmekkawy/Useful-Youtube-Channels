@@ -164,7 +164,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 11 | Jeremy Fielding | English | [Link](https://www.youtube.com/@JeremyFieldingSr) |
 | 12 | JerryRigEverything  | English | [Link](https://www.youtube.com/user/JerryRigEverything) |
 | 13 | Rich Rebuilds  | English | [Link](https://www.youtube.com/RichRebuilds) |
-
+| 14 | AvE  | English | [Link](https://www.youtube.com/@arduinoversusevil2025) |
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
