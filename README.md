@@ -187,3 +187,4 @@ Useful Youtube Channels for Electronics and Mechanical
 | 4 | ServeTheHome | English | [Link](https://www.youtube.com/@ServeTheHomeVideo) |
 | 5 | Hardware Haven | English | [Link](https://www.youtube.com/HardwareHaven) |
 | 6 | Lawrence Systems  | English | [Link](https://www.youtube.com/user/TheTecknowledge) |
+| 7 | TechTechPotato  | English | [Link](https://www.youtube.com/@TechTechPotato) |
