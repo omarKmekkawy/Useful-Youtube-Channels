@@ -209,4 +209,4 @@ Useful Youtube Channels for Electronics and Mechanical
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | SmarterEveryDay | English  | [Link](https://www.youtube.com/user/destinws2) |
-
+| 2 | LockPickingLawyer  | English  | [Link](https://www.youtube.com/lockpickinglawyer) |
