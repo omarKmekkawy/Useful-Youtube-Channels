@@ -108,6 +108,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 1 | Moatasem El Sayed      | Arabic  | [Link](https://www.youtube.com/channel/UCHTjN5FEITwRyb4IA3F8c4Q) |
 | 2 | Jeff Geerling      | English  | [Link](https://www.youtube.com/c/JeffGeerling) |
 | 3 | Edje Electronics | English | [Link](https://www.youtube.com/c/EdjeElectronics) |
+| 4 | leepspvideo | English | [Link](https://www.youtube.com/@leepspvideo) |
 
 # HAM Radio - Amateur radio - RF
 | # | Channel Name | Language | Link |
