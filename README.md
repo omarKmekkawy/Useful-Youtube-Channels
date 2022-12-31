@@ -189,3 +189,4 @@ Useful Youtube Channels for Electronics and Mechanical
 | 6 | Lawrence Systems  | English | [Link](https://www.youtube.com/user/TheTecknowledge) |
 | 7 | TechTechPotato  | English | [Link](https://www.youtube.com/@TechTechPotato) |
 | 8 | Crosstalk Solutions  | English | [Link](https://www.youtube.com/CrosstalkSolutions) |
+| 9 | Mactelecom Networks  | English | [Link](https://www.youtube.com/@MactelecomNetworks) |
