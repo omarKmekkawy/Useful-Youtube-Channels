@@ -132,7 +132,6 @@ Useful Youtube Channels for Electronics and Mechanical
 | 4 | Aaron Christophel | English | [Link](https://www.youtube.com/@atc1441) |
 
 
-
 # Programming
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
@@ -155,6 +154,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 1 | Eslam's Lab  | N/A | [Link](https://www.youtube.com/c/EslamsLab) |
 | 2 | Becky Stern | English | [Link](https://www.youtube.com/c/BeckyStern) |
 | 3 | Estefannie | English | [Link](https://www.youtube.com/c/Estefanniegg/videos) |
+| 4 | Stuff Made Here | English | [Link](https://www.youtube.com/StuffMadeHere) |
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
