@@ -110,6 +110,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 2 | Jeff Geerling      | English  | [Link](https://www.youtube.com/c/JeffGeerling) |
 | 3 | Edje Electronics | English | [Link](https://www.youtube.com/c/EdjeElectronics) |
 | 4 | leepspvideo | English | [Link](https://www.youtube.com/@leepspvideo) |
+| 5 | ETA PRIME | English | [Link](https://www.youtube.com/@ETAPRIME) |
 
 # HAM Radio - Amateur radio - RF
 | # | Channel Name | Language | Link |
