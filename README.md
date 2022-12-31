@@ -156,6 +156,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 3 | Estefannie | English | [Link](https://www.youtube.com/c/Estefanniegg/videos) |
 | 4 | Stuff Made Here | English | [Link](https://www.youtube.com/StuffMadeHere) |
 | 5 | colinfurze | English | [Link](https://www.youtube.com/user/colinfurze) |
+| 6 | Essential Craftsman | English | [Link](https://www.youtube.com/@essentialcraftsman) |
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
