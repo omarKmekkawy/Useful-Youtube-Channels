@@ -155,6 +155,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 2 | Becky Stern | English | [Link](https://www.youtube.com/c/BeckyStern) |
 | 3 | Estefannie | English | [Link](https://www.youtube.com/c/Estefanniegg/videos) |
 | 4 | Stuff Made Here | English | [Link](https://www.youtube.com/StuffMadeHere) |
+| 5 | colinfurze | English | [Link](https://www.youtube.com/user/colinfurze) |
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
