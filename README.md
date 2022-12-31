@@ -188,3 +188,4 @@ Useful Youtube Channels for Electronics and Mechanical
 | 5 | Hardware Haven | English | [Link](https://www.youtube.com/HardwareHaven) |
 | 6 | Lawrence Systems  | English | [Link](https://www.youtube.com/user/TheTecknowledge) |
 | 7 | TechTechPotato  | English | [Link](https://www.youtube.com/@TechTechPotato) |
+| 8 | Crosstalk Solutions  | English | [Link](https://www.youtube.com/CrosstalkSolutions) |
