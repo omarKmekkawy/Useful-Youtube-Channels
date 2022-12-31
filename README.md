@@ -149,6 +149,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 6 | shango066 | English | [Link](https://www.youtube.com/user/shango066) |
 | 7 | Peter O'Neill | English | [Link](https://www.youtube.com/@peteroneill404/videos) |
 | 8 | LGR  | English | [Link](https://www.youtube.com/user/phreakindee) |
+| 9 | Technology Connections | English | [Link](https://www.youtube.com/TechnologyConnections) |
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
@@ -203,3 +204,9 @@ Useful Youtube Channels for Electronics and Mechanical
 | 9 | Mactelecom Networks  | English | [Link](https://www.youtube.com/@MactelecomNetworks) |
 | 10 | Raid Owl  | English | [Link](https://www.youtube.com/@RaidOwl) |
 | 10 | Dev Odyssey | English | [Link](https://www.youtube.com/@DevOdyssey) |
+
+# Engineering
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | SmarterEveryDay | English  | [Link](https://www.youtube.com/user/destinws2) |
+
