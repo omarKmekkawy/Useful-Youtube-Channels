@@ -181,4 +181,5 @@ Useful Youtube Channels for Electronics and Mechanical
 # Computers - Networks
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
-| 1 | NetworkChuck    | English  | [Link](https://www.youtube.com/@NetworkChuck) |
+| 1 | NetworkChuck | English  | [Link](https://www.youtube.com/@NetworkChuck) |
+| 1 | Craft Computing | English  | [Link](https://www.youtube.com/@CraftComputing) |
