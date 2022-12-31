@@ -150,6 +150,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 7 | Peter O'Neill | English | [Link](https://www.youtube.com/@peteroneill404/videos) |
 | 8 | LGR  | English | [Link](https://www.youtube.com/user/phreakindee) |
 | 9 | Technology Connections | English | [Link](https://www.youtube.com/TechnologyConnections) |
+| 10 | Action Retro | English | [Link](https://www.youtube.com/ActionRetro) |
+| 11 | This Does Not Compute | English | [Link](https://www.youtube.com/user/cwwirth) |
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
