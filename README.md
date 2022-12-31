@@ -161,6 +161,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 8 | Tom Stanton | English | [Link](https://www.youtube.com/TomStantonEngineering) |
 | 9 | HouseImprovements  | English | [Link](https://www.youtube.com/@HouseImprovements) |
 | 10 | Device Orchestra | English | [Link](https://www.youtube.com/@DeviceOrchestra) |
+| 11 | Jeremy Fielding | English | [Link](https://www.youtube.com/@JeremyFieldingSr) |
 
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
