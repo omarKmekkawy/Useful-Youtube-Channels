@@ -160,7 +160,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 7 | Matthias Wandel | English | [Link](https://www.youtube.com/user/Matthiaswandel) |
 | 8 | Tom Stanton | English | [Link](https://www.youtube.com/TomStantonEngineering) |
 | 9 | HouseImprovements  | English | [Link](https://www.youtube.com/@HouseImprovements) |
-
+| 10 | Device Orchestra | English | [Link](https://www.youtube.com/@DeviceOrchestra) |
 
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
