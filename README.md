@@ -163,6 +163,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 10 | Device Orchestra | English | [Link](https://www.youtube.com/@DeviceOrchestra) |
 | 11 | Jeremy Fielding | English | [Link](https://www.youtube.com/@JeremyFieldingSr) |
 | 12 | JerryRigEverything  | English | [Link](https://www.youtube.com/user/JerryRigEverything) |
+| 13 | Rich Rebuilds  | English | [Link](https://www.youtube.com/RichRebuilds) |
 
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
