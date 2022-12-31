@@ -159,6 +159,9 @@ Useful Youtube Channels for Electronics and Mechanical
 | 6 | Essential Craftsman | English | [Link](https://www.youtube.com/@essentialcraftsman) |
 | 7 | Matthias Wandel | English | [Link](https://www.youtube.com/user/Matthiaswandel) |
 | 8 | Tom Stanton | English | [Link](https://www.youtube.com/TomStantonEngineering) |
+| 9 | HouseImprovements  | English | [Link](https://www.youtube.com/@HouseImprovements) |
+
+
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
