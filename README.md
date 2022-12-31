@@ -162,6 +162,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 9 | HouseImprovements  | English | [Link](https://www.youtube.com/@HouseImprovements) |
 | 10 | Device Orchestra | English | [Link](https://www.youtube.com/@DeviceOrchestra) |
 | 11 | Jeremy Fielding | English | [Link](https://www.youtube.com/@JeremyFieldingSr) |
+| 12 | JerryRigEverything  | English | [Link](https://www.youtube.com/user/JerryRigEverything) |
 
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
