@@ -185,4 +185,4 @@ Useful Youtube Channels for Electronics and Mechanical
 | 2 | Craft Computing | English  | [Link](https://www.youtube.com/@CraftComputing) |
 | 3 | Techno Tim | English | [Link](https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A) |
 | 4 | ServeTheHome | English | [Link](https://www.youtube.com/@ServeTheHomeVideo) |
-
+| 5 | Hardware Haven | English | [Link](https://www.youtube.com/HardwareHaven) |
