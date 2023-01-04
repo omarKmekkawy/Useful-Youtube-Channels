@@ -74,7 +74,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 3 | digiblurDIY | English | [Link](https://www.youtube.com/c/digiblurDIY) |
 | 4 | NotEnoughTECH | English | [Link](https://www.youtube.com/c/Notenoughtech0) |
 | 5 | DrZzs | English | [Link](https://www.youtube.com/c/DrZzs) |
-
+| 6 | Csongor Varga | English | [Link](https://www.youtube.com/@csongorvarga) |
 # Fixing Electronics - Repair
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
