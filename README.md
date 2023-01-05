@@ -104,6 +104,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | - | ------------ | -------- | ---- |
 | 1 | jehugarcia      | English  | [Link](https://www.youtube.com/c/jehugarcia) |
 | 2 | Electrified Veronika | English | [Link](https://www.youtube.com/c/ElectrifiedVeronika) |
+| 3 | DavidPoz  | English | [Link](https://www.youtube.com/@DavidPozEnergy) |
 
 # Embedded Linux
 | # | Channel Name | Language | Link |
