@@ -34,6 +34,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 27 | Alan Yates | English | [Link](https://www.youtube.com/user/vk2zay) |
 | 28 | CircuitValley | English | [Link](https://www.youtube.com/@circuitvalley) |
 | 29 | Photonicinduction | English |  [Link](https://www.youtube.com/@Photonvids) |
+| 30 | Konstantin Grigoriadis | English | [Link](https://www.youtube.com/@KonstantinGrigoriadis) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
