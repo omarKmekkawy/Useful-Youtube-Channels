@@ -1,6 +1,9 @@
 # Useful-Youtube-Channels
 Useful Youtube Channels for Electronics and Mechanical
 
+<p align="center">
+  <img width="70%" height="75%" src="./Images/Intro.png">
+</p>
 
 # Electronics
 | # | Channel Name | Language | Link |
