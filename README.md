@@ -35,6 +35,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 28 | CircuitValley | English | [Link](https://www.youtube.com/@circuitvalley) |
 | 29 | Photonicinduction | English |  [Link](https://www.youtube.com/@Photonvids) |
 | 30 | Konstantin Grigoriadis | English | [Link](https://www.youtube.com/@KonstantinGrigoriadis) |
+| 40 | Moritz Klein | English | [Link](https://www.youtube.com/@MoritzKlein0) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
