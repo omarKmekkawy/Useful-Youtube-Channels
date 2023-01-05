@@ -2,7 +2,7 @@
 Useful Youtube Channels for Electronics and Mechanical
 
 <p align="center">
-  <img width="80%" height="100%" src="./Images/Intro.png">
+  <img width="100%" height="100%" src="./Images/Intro.png">
 </p>
 
 # Electronics
