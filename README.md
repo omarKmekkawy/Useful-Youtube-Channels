@@ -177,6 +177,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 13 | Rich Rebuilds  | English | [Link](https://www.youtube.com/RichRebuilds) |
 | 14 | AvE  | English | [Link](https://www.youtube.com/@arduinoversusevil2025) |
 | 15 | Paweł Zadrożniak | English | [Link](https://www.youtube.com/@PaweZadrozniak) |
+| 16 | JLaservideo  | English | [Link](https://www.youtube.com/@JLaservideo/) |
+
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
@@ -222,3 +224,4 @@ Useful Youtube Channels for Electronics and Mechanical
 | 2 | LockPickingLawyer  | English  | [Link](https://www.youtube.com/lockpickinglawyer) |
 | 3 | Steve Mould  | English  | [Link](https://www.youtube.com/user/steventhebrave) |
 | 4 | Geerling Engineering | English | [Link](https://www.youtube.com/@GeerlingEngineering) |
+
