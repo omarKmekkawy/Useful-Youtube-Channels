@@ -159,6 +159,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 9 | Technology Connections | English | [Link](https://www.youtube.com/TechnologyConnections) |
 | 10 | Action Retro | English | [Link](https://www.youtube.com/ActionRetro) |
 | 11 | This Does Not Compute | English | [Link](https://www.youtube.com/user/cwwirth) |
+| 12 | vswitchzero | English | [Link](https://www.youtube.com/@vswitchzero) |
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
