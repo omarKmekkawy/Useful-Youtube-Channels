@@ -137,7 +137,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 2 | RECESSIM     | English  | [Link](https://www.youtube.com/c/RECESSIM) |
 | 3 | Flashback Team | English | [Link](https://www.youtube.com/c/FlashbackTeam) |
 | 4 | Aaron Christophel | English | [Link](https://www.youtube.com/@atc1441) |
-
+| 5 | Maker's Fun Duck | English | [Link](https://www.youtube.com/@makersfunduck) |
 
 # Programming
 | # | Channel Name | Language | Link |
