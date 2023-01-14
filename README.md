@@ -18,27 +18,28 @@ Useful Youtube Channels for Electronics and Mechanical
 | 8 | EEVblog2 | English | [Link](https://www.youtube.com/user/eevblog2/) |
 | 9 | Leo's Bag of Tricks | English | [Link](https://www.youtube.com/channel/UCe1bjEcBichpiAMhExh0NiQ) |
 | 10 | The Signal Path | English | [Link](https://www.youtube.com/c/Thesignalpath) |
-| 11 | Androkavo | English | [Link](https://www.youtube.com/c/Androkavo/) |
-| 12 | Julian Ilett | English | [Link](https://www.youtube.com/c/JulianIlett) |
-| 13 | MyVanitar | English | [Link](https://www.youtube.com/c/MyVanitar) |
-| 14 | Ensatek Solutions | English | [Link](https://www.youtube.com/c/SolutionStudio) |
-| 15 | EETEngineer | English | [Link](https://www.youtube.com/channel/UCig1fhi3v4793OjWgHbio-w) |
-| 16 | HardwareGuruHacks | English | [Link](https://www.youtube.com/channel/UCgpGShg2Qx3PkMUaRbYHRTg) |
-| 17 | RF Man Channel | English | [Link](https://www.youtube.com/channel/UC7r5QeuynhXudskQDl7J45w) |
-| 18 | Orin Huber | English | [Link](https://www.youtube.com/user/orinhuber) |
-| 19 | xDevs_com | English | [Link](https://www.youtube.com/c/xDevscom_EE) |
-| 20 | Elecami Wolf | English | [Link](https://www.youtube.com/c/ElecamiWolf) |
-| 21 | Ibrahim Elkhatib | Arabic | [Link](https://www.youtube.com/c/IbrahimElkhatib32) |
-| 22 | Lockdown Electronics | English | [Link](https://www.youtube.com/c/LockdownElectronics) |
-| 23 | Mr.Leamerz | English | [Link](https://www.youtube.com/c/JasonLeaman) |
-| 24 | Adrian S | English | [Link](https://www.youtube.com/user/adriansmith31) |
-| 25 | Amar Mohamed | Arabic | [Link](https://www.youtube.com/channel/UCbYeE8lAx_hE1F1l3doflYg) |
-| 26 | Ahmed Halawa | Arabic | [Link](https://www.youtube.com/c/AhmedHalawa) |
-| 27 | Alan Yates | English | [Link](https://www.youtube.com/user/vk2zay) |
-| 28 | CircuitValley | English | [Link](https://www.youtube.com/@circuitvalley) |
-| 29 | Photonicinduction | English |  [Link](https://www.youtube.com/@Photonvids) |
-| 30 | Konstantin Grigoriadis | English | [Link](https://www.youtube.com/@KonstantinGrigoriadis) |
-| 40 | Moritz Klein | English | [Link](https://www.youtube.com/@MoritzKlein0) |
+| 11 | DiodeGoneWild | English | [Link](https://www.youtube.com/@DiodeGoneWild) |
+| 12 | Androkavo | English | [Link](https://www.youtube.com/c/Androkavo/) |
+| 13 | Julian Ilett | English | [Link](https://www.youtube.com/c/JulianIlett) |
+| 14 | MyVanitar | English | [Link](https://www.youtube.com/c/MyVanitar) |
+| 15 | Ensatek Solutions | English | [Link](https://www.youtube.com/c/SolutionStudio) |
+| 16 | EETEngineer | English | [Link](https://www.youtube.com/channel/UCig1fhi3v4793OjWgHbio-w) |
+| 17 | HardwareGuruHacks | English | [Link](https://www.youtube.com/channel/UCgpGShg2Qx3PkMUaRbYHRTg) |
+| 18 | RF Man Channel | English | [Link](https://www.youtube.com/channel/UC7r5QeuynhXudskQDl7J45w) |
+| 19 | Orin Huber | English | [Link](https://www.youtube.com/user/orinhuber) |
+| 20 | xDevs_com | English | [Link](https://www.youtube.com/c/xDevscom_EE) |
+| 21 | Elecami Wolf | English | [Link](https://www.youtube.com/c/ElecamiWolf) |
+| 22 | Ibrahim Elkhatib | Arabic | [Link](https://www.youtube.com/c/IbrahimElkhatib32) |
+| 23 | Lockdown Electronics | English | [Link](https://www.youtube.com/c/LockdownElectronics) |
+| 24 | Mr.Leamerz | English | [Link](https://www.youtube.com/c/JasonLeaman) |
+| 25 | Adrian S | English | [Link](https://www.youtube.com/user/adriansmith31) |
+| 26 | Amar Mohamed | Arabic | [Link](https://www.youtube.com/channel/UCbYeE8lAx_hE1F1l3doflYg) |
+| 27 | Ahmed Halawa | Arabic | [Link](https://www.youtube.com/c/AhmedHalawa) |
+| 28 | Alan Yates | English | [Link](https://www.youtube.com/user/vk2zay) |
+| 29 | CircuitValley | English | [Link](https://www.youtube.com/@circuitvalley) |
+| 30 | Photonicinduction | English |  [Link](https://www.youtube.com/@Photonvids) |
+| 31 | Konstantin Grigoriadis | English | [Link](https://www.youtube.com/@KonstantinGrigoriadis) |
+| 32 | Moritz Klein | English | [Link](https://www.youtube.com/@MoritzKlein0) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
