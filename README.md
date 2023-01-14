@@ -40,6 +40,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 30 | Photonicinduction | English |  [Link](https://www.youtube.com/@Photonvids) |
 | 31 | Konstantin Grigoriadis | English | [Link](https://www.youtube.com/@KonstantinGrigoriadis) |
 | 32 | Moritz Klein | English | [Link](https://www.youtube.com/@MoritzKlein0) |
+| 33 | Electronics Old and New by M Caldeira | English | [Link](https://www.youtube.com/@electronicsoldandnew) |
+
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
