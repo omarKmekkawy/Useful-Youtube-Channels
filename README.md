@@ -101,7 +101,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 16 | Louis Rossmann | English | [Link](https://www.youtube.com/@rossmanngroup) |
 | 17 | Paul Daniels | English | [Link](https://www.youtube.com/@pldaniels) |
 | 18 | Russ Did It | English | [Link](https://www.youtube.com/@RussDidIt) |
-
+| 19 | TheCod3r | English | [Link](https://www.youtube.com/@TheCod3r) |
 # Lithium Batteries - DIY Electric Vehicle
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
