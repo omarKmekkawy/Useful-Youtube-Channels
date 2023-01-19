@@ -164,6 +164,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 10 | Action Retro | English | [Link](https://www.youtube.com/ActionRetro) |
 | 11 | This Does Not Compute | English | [Link](https://www.youtube.com/user/cwwirth) |
 | 12 | vswitchzero | English | [Link](https://www.youtube.com/@vswitchzero) |
+| 13 | ScrapComputing | English | [Link](https://www.youtube.com/@scrap_computing) |
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
