@@ -83,6 +83,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 4 | NotEnoughTECH | English | [Link](https://www.youtube.com/c/Notenoughtech0) |
 | 5 | DrZzs | English | [Link](https://www.youtube.com/c/DrZzs) |
 | 6 | Csongor Varga | English | [Link](https://www.youtube.com/@csongorvarga) |
+| 7 | Smart Home Solver | English | [Link](https://www.youtube.com/@SmartHomeSolver) |
 # Fixing Electronics - Repair
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
@@ -221,7 +222,6 @@ Useful Youtube Channels for Electronics and Mechanical
 | 10 | Raid Owl  | English | [Link](https://www.youtube.com/@RaidOwl) |
 | 11 | Dev Odyssey | English | [Link](https://www.youtube.com/@DevOdyssey) |
 | 12 | apalrd's adventures | English | [Link](https://www.youtube.com/@apalrdsadventures) |
-
 # Engineering
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
