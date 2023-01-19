@@ -219,7 +219,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 8 | Crosstalk Solutions  | English | [Link](https://www.youtube.com/CrosstalkSolutions) |
 | 9 | Mactelecom Networks  | English | [Link](https://www.youtube.com/@MactelecomNetworks) |
 | 10 | Raid Owl  | English | [Link](https://www.youtube.com/@RaidOwl) |
-| 10 | Dev Odyssey | English | [Link](https://www.youtube.com/@DevOdyssey) |
+| 11 | Dev Odyssey | English | [Link](https://www.youtube.com/@DevOdyssey) |
+| 12 | apalrd's adventures | English | [Link](https://www.youtube.com/@apalrdsadventures) |
 
 # Engineering
 | # | Channel Name | Language | Link |
