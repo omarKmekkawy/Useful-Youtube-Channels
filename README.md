@@ -122,6 +122,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 3 | Edje Electronics | English | [Link](https://www.youtube.com/c/EdjeElectronics) |
 | 4 | leepspvideo | English | [Link](https://www.youtube.com/@leepspvideo) |
 | 5 | ETA PRIME | English | [Link](https://www.youtube.com/@ETAPRIME) |
+| 6 | Reda Maher | Arabic | [Link](https://www.youtube.com/@Reda_Maher) |
 
 # HAM Radio - Amateur radio - RF
 | # | Channel Name | Language | Link |
