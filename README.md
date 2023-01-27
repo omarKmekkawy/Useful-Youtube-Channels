@@ -41,6 +41,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 31 | Konstantin Grigoriadis | English | [Link](https://www.youtube.com/@KonstantinGrigoriadis) |
 | 32 | Moritz Klein | English | [Link](https://www.youtube.com/@MoritzKlein0) |
 | 33 | Electronics Old and New by M Caldeira | English | [Link](https://www.youtube.com/@electronicsoldandnew) |
+| 34 | Sentineo Embedded Electronics | English | [Link](https://www.youtube.com/@sentineo) |
 
 ## Digital Design
 | # | Channel Name | Language | Link |
