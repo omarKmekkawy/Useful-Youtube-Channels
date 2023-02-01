@@ -43,6 +43,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 33 | Electronics Old and New by M Caldeira | English | [Link](https://www.youtube.com/@electronicsoldandnew) |
 | 34 | Sentineo Embedded Electronics | English | [Link](https://www.youtube.com/@sentineo) |
 | 35 | ChargerLAB | English | [Link](https://www.youtube.com/@ChargerLAB) |
+| 36 | Sine Lab | English | [Link](https://www.youtube.com/@SineLab) |
+
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
