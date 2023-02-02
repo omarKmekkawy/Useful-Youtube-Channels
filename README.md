@@ -87,6 +87,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 5 | DrZzs | English | [Link](https://www.youtube.com/c/DrZzs) |
 | 6 | Csongor Varga | English | [Link](https://www.youtube.com/@csongorvarga) |
 | 7 | Smart Home Solver | English | [Link](https://www.youtube.com/@SmartHomeSolver) |
+| 8 | mostlychris | English | [Link](https://www.youtube.com/@mostlychris) |
+
 # Fixing Electronics - Repair
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
@@ -110,6 +112,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 18 | Russ Did It | English | [Link](https://www.youtube.com/@RussDidIt) |
 | 19 | TheCod3r | English | [Link](https://www.youtube.com/@TheCod3r) |
 | 20 | Black Horse Repairs | English | [Link](https://www.youtube.com/@blackhorserepairs) |
+
 # Lithium Batteries - DIY Electric Vehicle
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
