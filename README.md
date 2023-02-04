@@ -176,6 +176,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 13 | ScrapComputing | English | [Link](https://www.youtube.com/@scrap_computing) |
 | 14 | Necroware | English | [Link](https://www.youtube.com/@necro_ware) |
 | 15 | Le labo de Michel | English | [Link](https://www.youtube.com/@lelabodemichel5162) |
+| 16 | Mark Furneaux | English | [Link](https://www.youtube.com/user/TheUbuntuGuy) |
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
