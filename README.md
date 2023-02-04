@@ -174,6 +174,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 11 | This Does Not Compute | English | [Link](https://www.youtube.com/user/cwwirth) |
 | 12 | vswitchzero | English | [Link](https://www.youtube.com/@vswitchzero) |
 | 13 | ScrapComputing | English | [Link](https://www.youtube.com/@scrap_computing) |
+| 14 | Necroware | English | [Link](https://www.youtube.com/@necro_ware) |
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
