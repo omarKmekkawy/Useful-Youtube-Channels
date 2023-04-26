@@ -197,6 +197,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 14 | AvE  | English | [Link](https://www.youtube.com/@arduinoversusevil2025) |
 | 15 | Paweł Zadrożniak | English | [Link](https://www.youtube.com/@PaweZadrozniak) |
 | 16 | JLaservideo  | English | [Link](https://www.youtube.com/@JLaservideo/) |
+| 17 | A2D Channel | Tamil | [Link](https://www.youtube.com/@A2DChannel) |
 
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
