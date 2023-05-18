@@ -113,7 +113,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 18 | Russ Did It | English | [Link](https://www.youtube.com/@RussDidIt) |
 | 19 | TheCod3r | English | [Link](https://www.youtube.com/@TheCod3r) |
 | 20 | Black Horse Repairs | English | [Link](https://www.youtube.com/@blackhorserepairs) |
-
+| 21 | Branchus Creations | English | [Link](https://www.youtube.com/@BranchusCreations) |
 # Lithium Batteries - DIY Electric Vehicle
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
