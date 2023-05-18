@@ -44,7 +44,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 34 | Sentineo Embedded Electronics | English | [Link](https://www.youtube.com/@sentineo) |
 | 35 | ChargerLAB | English | [Link](https://www.youtube.com/@ChargerLAB) |
 | 36 | Sine Lab | English | [Link](https://www.youtube.com/@SineLab) |
-
+| 37 | Electronics & Communications Videos | English | [Link](https://www.youtube.com/@electronicscommunicationsv3498) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
