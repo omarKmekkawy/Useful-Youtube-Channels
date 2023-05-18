@@ -183,6 +183,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 16 | Mark Furneaux | English | [Link](https://www.youtube.com/user/TheUbuntuGuy) |
 | 17 | Trevor's Bench | English | [Link](https://www.youtube.com/@TrevorsBench) |
 | 18 | Colin Hickey | English | [Link](https://www.youtube.com/@Chickey) |
+| 19 | Lewis Loflin | English | [Link](https://www.youtube.com/@LewisLoflin) |
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
