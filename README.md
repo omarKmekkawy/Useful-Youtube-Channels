@@ -114,6 +114,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 19 | TheCod3r | English | [Link](https://www.youtube.com/@TheCod3r) |
 | 20 | Black Horse Repairs | English | [Link](https://www.youtube.com/@blackhorserepairs) |
 | 21 | Branchus Creations | English | [Link](https://www.youtube.com/@BranchusCreations) |
+| 22 | karimi electronic قناة كريمي للإلكترونيات | Arabic | [Link](https://www.youtube.com/@karimimohamed) |
 # Lithium Batteries - DIY Electric Vehicle
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
