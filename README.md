@@ -179,6 +179,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 14 | Necroware | English | [Link](https://www.youtube.com/@necro_ware) |
 | 15 | Le labo de Michel | English | [Link](https://www.youtube.com/@lelabodemichel5162) |
 | 16 | Mark Furneaux | English | [Link](https://www.youtube.com/user/TheUbuntuGuy) |
+| 17 | Trevor's Bench | English | [Link](https://www.youtube.com/@TrevorsBench) |
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
