@@ -45,6 +45,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 35 | ChargerLAB | English | [Link](https://www.youtube.com/@ChargerLAB) |
 | 36 | Sine Lab | English | [Link](https://www.youtube.com/@SineLab) |
 | 37 | Electronics & Communications Videos | English | [Link](https://www.youtube.com/@electronicscommunicationsv3498) |
+| 38 | Electronics with Emrys | English | [Link](https://www.youtube.com/@electronicswithemrys) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
