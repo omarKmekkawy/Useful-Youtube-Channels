@@ -124,6 +124,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 3 | DavidPoz  | English | [Link](https://www.youtube.com/@DavidPozEnergy) |
 | 4 | vuaeco | English | [Link](https://www.youtube.com/@vuaeco) |
 | 5 | EETEngineer | English | [Link](https://www.youtube.com/@eetengineer/videos) |
+| 6 | Dala's EV Repair | English | [Link](https://www.youtube.com/@DalasEVRepair) |
 
 # Embedded Linux
 | # | Channel Name | Language | Link |
@@ -187,6 +188,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 17 | Trevor's Bench | English | [Link](https://www.youtube.com/@TrevorsBench) |
 | 18 | Colin Hickey | English | [Link](https://www.youtube.com/@Chickey) |
 | 19 | Lewis Loflin | English | [Link](https://www.youtube.com/@LewisLoflin) |
+
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
