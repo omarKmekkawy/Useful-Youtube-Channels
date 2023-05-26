@@ -47,6 +47,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 37 | Electronics & Communications Videos | English | [Link](https://www.youtube.com/@electronicscommunicationsv3498) |
 | 38 | Electronics with Emrys | English | [Link](https://www.youtube.com/@electronicswithemrys) |
 | 39 | Chris's Workbench | English | [Link](https://www.youtube.com/@ke6chris) |
+| 40 | Scullcom Hobby Electronics | English | [Link](https://www.youtube.com/@scullcomhobbyelectronics1702) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
