@@ -52,7 +52,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | Ovisign Verilog HDL Tutorials   | English   | [Link](https://www.youtube.com/channel/UC_0ckp79beB79tnN0KQHXSQ) |
-
+| 2 | Whitney Knitter | English | [Link](https://www.youtube.com/@knitronics) |
 
 # Embedded Systems
 | # | Channel Name | Language | Link |
