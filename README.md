@@ -211,6 +211,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 16 | JLaservideo  | English | [Link](https://www.youtube.com/@JLaservideo/) |
 | 17 | A2D Channel | Tamil | [Link](https://www.youtube.com/@A2DChannel) |
 | 18 | Zack Freedman | English | [Link](https://www.youtube.com/@ZackFreedman) |
+| 19 | Simone Giertz | English | [Link](https://www.youtube.com/@simonegiertz) |
 
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
