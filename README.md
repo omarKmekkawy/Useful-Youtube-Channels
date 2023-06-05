@@ -79,7 +79,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 19 | Karl Makes Music | English | [Link](https://www.youtube.com/channel/UCsxo6OpAQ1Pee4nSqhdMYCQ) |
 | 20 | Life with David | English | [Link](https://www.youtube.com/c/LifewithDavid1) |
 | 21 | 0033mer | English | [Link](https://www.youtube.com/user/0033mer) |
-
+| 22 | Visual Micro | English | [Link](https://www.youtube.com/@visualmicro4389) |
 
 # IOT
 | # | Channel Name | Language | Link |
