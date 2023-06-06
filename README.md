@@ -119,6 +119,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 21 | Branchus Creations | English | [Link](https://www.youtube.com/@BranchusCreations) |
 | 22 | karimi electronic قناة كريمي للإلكترونيات | Arabic | [Link](https://www.youtube.com/@karimimohamed) |
 | 23 | Scorpion Repair Shop | English | [Link](https://www.youtube.com/@ScorpionRepairShop) |
+| 24 | ToltecMerc | English | [Link](https://www.youtube.com/@ToltecMerc) |
 
 # Lithium Batteries - DIY Electric Vehicle
 | # | Channel Name | Language | Link |
