@@ -49,6 +49,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 39 | Chris's Workbench | English | [Link](https://www.youtube.com/@ke6chris) |
 | 40 | Scullcom Hobby Electronics | English | [Link](https://www.youtube.com/@scullcomhobbyelectronics1702) |
 | 41 | Dominik Workshop | English | [Link](https://www.youtube.com/@dominikworkshop6007) |
+| 42 | GreatScott! | English | [Link](https://www.youtube.com/@greatscottlab) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
