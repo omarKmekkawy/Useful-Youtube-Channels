@@ -142,6 +142,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 5 | ETA PRIME | English | [Link](https://www.youtube.com/@ETAPRIME) |
 | 6 | Reda Maher | Arabic | [Link](https://www.youtube.com/@Reda_Maher) |
 | 7 | Joe Collins | English | [Link](https://www.youtube.com/@EzeeLinux/videos) |
+| 8 | Mohamed Abdulaal - Embinux | English | [Link](https://www.youtube.com/@mohamedabdulaal-embinux5933) |
 
 # HAM Radio - Amateur radio - RF
 | # | Channel Name | Language | Link |
