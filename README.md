@@ -270,3 +270,9 @@ Useful Youtube Channels for Electronics and Mechanical
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | joneivinds | English | [Link](https://www.youtube.com/@joneivinds) |
+
+
+# Testing & Testing Automation
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | Psychogenic Technologies | English | [Link](https://www.youtube.com/@PsychogenicTechnologies) |
