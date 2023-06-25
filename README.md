@@ -134,6 +134,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 5 | EETEngineer | English | [Link](https://www.youtube.com/@eetengineer/videos) |
 | 6 | Dala's EV Repair | English | [Link](https://www.youtube.com/@DalasEVRepair) |
 | 7 | Dr. Max Mauro Santos | portuguese | [Link](https://www.youtube.com/@maxmaurodsantos) |
+| 8 | Mohammad Abdeltawab | Arabic | [Link](https://www.youtube.com/@MohammadAbdeltawab)
 
 # Embedded Linux
 | # | Channel Name | Language | Link |
