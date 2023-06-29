@@ -178,7 +178,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 1 | Emix Code  | Arabic  | [Link](https://www.youtube.com/c/EmixCode) |
 | 2 | Dorian Develops | English | [Link](https://www.youtube.com/c/DorianDevelops) |
 | 3 | Queso Fuego | English | [Link](https://www.youtube.com/@QuesoFuego) |
-
+| 4 | Caleb Curry | English | [Link](https://www.youtube.com/@codebreakthrough) |
 # Vintage Electronics - Hardware Reverse Engineering - Repair
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
