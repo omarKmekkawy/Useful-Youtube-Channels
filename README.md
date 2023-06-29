@@ -201,7 +201,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 17 | Trevor's Bench | English | [Link](https://www.youtube.com/@TrevorsBench) |
 | 18 | Colin Hickey | English | [Link](https://www.youtube.com/@Chickey) |
 | 19 | Lewis Loflin | English | [Link](https://www.youtube.com/@LewisLoflin) |
-
+| 20 | Nick's Knacks | English | [Link](https://www.youtube.com/@nicksknacks6267) |
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
