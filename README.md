@@ -276,8 +276,12 @@ Useful Youtube Channels for Electronics and Mechanical
 | - | ------------ | -------- | ---- |
 | 1 | joneivinds | English | [Link](https://www.youtube.com/@joneivinds) |
 
-
 # Testing & Testing Automation
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | Psychogenic Technologies | English | [Link](https://www.youtube.com/@PsychogenicTechnologies) |
+
+# Inspiring Public Talks
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | VCF Southwest | English | [Link](https://www.youtube.com/@VCFSW) |
