@@ -125,6 +125,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 22 | karimi electronic قناة كريمي للإلكترونيات | Arabic | [Link](https://www.youtube.com/@karimimohamed) |
 | 23 | Scorpion Repair Shop | English | [Link](https://www.youtube.com/@ScorpionRepairShop) |
 | 24 | ToltecMerc | English | [Link](https://www.youtube.com/@ToltecMerc) |
+| 25 | northwestrepair | English | [Link](https://www.youtube.com/@northwestrepair) |
 
 # Lithium Batteries - DIY Electric Vehicle
 | # | Channel Name | Language | Link |
