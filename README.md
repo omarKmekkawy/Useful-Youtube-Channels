@@ -285,3 +285,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | VCF Southwest | English | [Link](https://www.youtube.com/@VCFSW) |
+
+# Electrical Installations
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | residualcurrent | English | [Link](https://www.youtube.com/@residualcurrent) |
