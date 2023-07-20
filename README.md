@@ -137,8 +137,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 5 | EETEngineer | English | [Link](https://www.youtube.com/@eetengineer/videos) |
 | 6 | Dala's EV Repair | English | [Link](https://www.youtube.com/@DalasEVRepair) |
 | 7 | Dr. Max Mauro Santos | portuguese | [Link](https://www.youtube.com/@maxmaurodsantos) |
-| 8 | Mohammad Abdeltawab | Arabic | [Link](https://www.youtube.com/@MohammadAbdeltawab)
-
+| 8 | Flying tools | English | [Link](https://www.youtube.com/@flyingtools)
 # Embedded Linux
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
@@ -226,7 +225,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 17 | A2D Channel | Tamil | [Link](https://www.youtube.com/@A2DChannel) |
 | 18 | Zack Freedman | English | [Link](https://www.youtube.com/@ZackFreedman) |
 | 19 | Simone Giertz | English | [Link](https://www.youtube.com/@simonegiertz) |
-
+| 20 | Mohammad Abdeltawab | Arabic | [Link](https://www.youtube.com/@MohammadAbdeltawab)
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
