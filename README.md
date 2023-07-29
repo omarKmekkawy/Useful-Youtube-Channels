@@ -203,6 +203,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 19 | Lewis Loflin | English | [Link](https://www.youtube.com/@LewisLoflin) |
 | 20 | Nick's Knacks | English | [Link](https://www.youtube.com/@nicksknacks6267) |
 | 21 | Keyworks ECU Repair | English | [Link](https://www.youtube.com/@ecurepair) |
+| 22 | Zenwizard Studios | English | [Link](https://www.youtube.com/@ZenwizardStudios) |
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
