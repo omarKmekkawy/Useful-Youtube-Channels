@@ -53,7 +53,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 42 | TOPICS IN ELECTRONICS | Arabic | [Link](https://www.youtube.com/@topicsinelectronics) |
 | 42 | James Rowley | English | [Link](https://www.youtube.com/@PixelFelon) |
 | 43 | spacehuhn | English | [Link](https://www.youtube.com/@spacehuhn) |
-
+| 44 | Sorin&Diana | English | [Link](https://www.youtube.com/@sorinelectronics) |
+| 45 | Inga Woods-Waight | English | [Link](https://www.youtube.com/c/IngaWoodsWaight) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
