@@ -127,7 +127,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 23 | Scorpion Repair Shop | English | [Link](https://www.youtube.com/@ScorpionRepairShop) |
 | 24 | ToltecMerc | English | [Link](https://www.youtube.com/@ToltecMerc) |
 | 25 | northwestrepair | English | [Link](https://www.youtube.com/@northwestrepair) |
-
+| 26 | Adamant IT | English | [Link](https://www.youtube.com/@Adamant_IT) |
+| 27 | Adamant IT 2 | English | [Link](https://www.youtube.com/@AdamantIT2) |
 # Lithium Batteries - DIY Electric Vehicle
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
