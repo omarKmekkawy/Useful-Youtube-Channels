@@ -56,6 +56,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 44 | Sorin&Diana | English | [Link](https://www.youtube.com/@sorinelectronics) |
 | 45 | Inga Woods-Waight | English | [Link](https://www.youtube.com/c/IngaWoodsWaight) |
 | 46 | TheHWcave | English | [Link](https://www.youtube.com/@TheHWcave) |
+| 47 | Kaizer Power Electronics | English | [Link](https://www.youtube.com/@KaizerPowerElectronicsDk) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
