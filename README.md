@@ -55,6 +55,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 43 | spacehuhn | English | [Link](https://www.youtube.com/@spacehuhn) |
 | 44 | Sorin&Diana | English | [Link](https://www.youtube.com/@sorinelectronics) |
 | 45 | Inga Woods-Waight | English | [Link](https://www.youtube.com/c/IngaWoodsWaight) |
+| 46 | TheHWcave | English | [Link](https://www.youtube.com/@TheHWcave) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
