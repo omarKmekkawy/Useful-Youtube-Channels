@@ -161,6 +161,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 2 | NA5Y | English | [Link](https://www.youtube.com/@na5y) |
 | 3 | Exploring Stuff | English | [Link](https://www.youtube.com/@cache4pat)
 | 4 | Tech Minds | English | [Link](https://www.youtube.com/@TechMindsOfficial) |
+| 5 | QRP Labs | English | [Link](https://www.youtube.com/@QRPLabs) |
 # Special Channels & Projects I Recommend
 | # | Channel Name | Language | Link | Project |
 | - | ------------ | -------- | ---- | ------- |
