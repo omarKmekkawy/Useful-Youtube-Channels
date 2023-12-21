@@ -163,6 +163,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 3 | Exploring Stuff | English | [Link](https://www.youtube.com/@cache4pat)
 | 4 | Tech Minds | English | [Link](https://www.youtube.com/@TechMindsOfficial) |
 | 5 | QRP Labs | English | [Link](https://www.youtube.com/@QRPLabs) |
+| 6 | Adrian Salt | English | [Link](https://www.youtube.com/@adriansalt4521) |
 # Special Channels & Projects I Recommend
 | # | Channel Name | Language | Link | Project |
 | - | ------------ | -------- | ---- | ------- |
