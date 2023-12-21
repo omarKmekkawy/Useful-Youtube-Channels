@@ -58,6 +58,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 46 | TheHWcave | English | [Link](https://www.youtube.com/@TheHWcave) |
 | 47 | Kaizer Power Electronics | English | [Link](https://www.youtube.com/@KaizerPowerElectronicsDk) |
 | 48 | joe smith | English | [Link](https://www.youtube.com/@joesmith-je3tq) |
+| 49 | Artem Kalinchuk | English | [Link](https://www.youtube.com/@artemkalinchuk/) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
