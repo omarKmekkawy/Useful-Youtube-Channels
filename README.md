@@ -165,6 +165,12 @@ Useful Youtube Channels for Electronics and Mechanical
 | 5 | QRP Labs | English | [Link](https://www.youtube.com/@QRPLabs) |
 | 6 | Adrian Salt | English | [Link](https://www.youtube.com/@adriansalt4521) |
 | 7 | Blueglow Electronics | English | [Link](https://www.youtube.com/@Blueglow) |
+
+# EMC Compliance
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | Mach One Design EMC | English  | [Link](https://www.youtube.com/@MachOneDesignEMC) |
+
 # Special Channels & Projects I Recommend
 | # | Channel Name | Language | Link | Project |
 | - | ------------ | -------- | ---- | ------- |
