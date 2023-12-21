@@ -164,6 +164,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 4 | Tech Minds | English | [Link](https://www.youtube.com/@TechMindsOfficial) |
 | 5 | QRP Labs | English | [Link](https://www.youtube.com/@QRPLabs) |
 | 6 | Adrian Salt | English | [Link](https://www.youtube.com/@adriansalt4521) |
+| 7 | Blueglow Electronics | English | [Link](https://www.youtube.com/@Blueglow) |
 # Special Channels & Projects I Recommend
 | # | Channel Name | Language | Link | Project |
 | - | ------------ | -------- | ---- | ------- |
