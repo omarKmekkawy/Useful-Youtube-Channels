@@ -59,6 +59,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 47 | Kaizer Power Electronics | English | [Link](https://www.youtube.com/@KaizerPowerElectronicsDk) |
 | 48 | joe smith | English | [Link](https://www.youtube.com/@joesmith-je3tq) |
 | 49 | Artem Kalinchuk | English | [Link](https://www.youtube.com/@artemkalinchuk/) |
+| 50 | Sorin&Diana | English | [Link](https://www.youtube.com/@sorinelectronics) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
