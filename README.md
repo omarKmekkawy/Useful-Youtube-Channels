@@ -219,6 +219,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 20 | Nick's Knacks | English | [Link](https://www.youtube.com/@nicksknacks6267) |
 | 21 | Keyworks ECU Repair | English | [Link](https://www.youtube.com/@ecurepair) |
 | 22 | Zenwizard Studios | English | [Link](https://www.youtube.com/@ZenwizardStudios) |
+| 23 | BigDog8882 | English | [Link](https://www.youtube.com/@bigdog8882) |
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
