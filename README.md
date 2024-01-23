@@ -221,6 +221,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 22 | Zenwizard Studios | English | [Link](https://www.youtube.com/@ZenwizardStudios) |
 | 23 | BigDog8882 | English | [Link](https://www.youtube.com/@bigdog8882) |
 | 24 | atkelar | English | [Link](https://www.youtube.com/@atkelar) |
+| 25 | Electronics Repair School | English | [Link](https://www.youtube.com/@electronicsrepairschool/) |
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
