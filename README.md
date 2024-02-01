@@ -60,6 +60,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 48 | joe smith | English | [Link](https://www.youtube.com/@joesmith-je3tq) |
 | 49 | Artem Kalinchuk | English | [Link](https://www.youtube.com/@artemkalinchuk/) |
 | 50 | Sorin&Diana | English | [Link](https://www.youtube.com/@sorinelectronics) |
+| 51 | Lewis Loflin | English | [Link](https://www.youtube.com/@LewisLoflin) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
@@ -216,10 +217,9 @@ Useful Youtube Channels for Electronics and Mechanical
 | 16 | Mark Furneaux | English | [Link](https://www.youtube.com/user/TheUbuntuGuy) |
 | 17 | Trevor's Bench | English | [Link](https://www.youtube.com/@TrevorsBench) |
 | 18 | Colin Hickey | English | [Link](https://www.youtube.com/@Chickey) |
-| 19 | Lewis Loflin | English | [Link](https://www.youtube.com/@LewisLoflin) |
-| 20 | Nick's Knacks | English | [Link](https://www.youtube.com/@nicksknacks6267) |
-| 21 | Keyworks ECU Repair | English | [Link](https://www.youtube.com/@ecurepair) |
-| 22 | Zenwizard Studios | English | [Link](https://www.youtube.com/@ZenwizardStudios) |
+| 19 | Nick's Knacks | English | [Link](https://www.youtube.com/@nicksknacks6267) |
+| 20 | Keyworks ECU Repair | English | [Link](https://www.youtube.com/@ecurepair) |
+| 21 | Zenwizard Studios | English | [Link](https://www.youtube.com/@ZenwizardStudios) |
 | 23 | BigDog8882 | English | [Link](https://www.youtube.com/@bigdog8882) |
 | 24 | atkelar | English | [Link](https://www.youtube.com/@atkelar) |
 | 25 | Electronics Repair School | English | [Link](https://www.youtube.com/@electronicsrepairschool/) |
