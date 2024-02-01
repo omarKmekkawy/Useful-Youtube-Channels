@@ -61,6 +61,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 49 | Artem Kalinchuk | English | [Link](https://www.youtube.com/@artemkalinchuk/) |
 | 50 | Sorin&Diana | English | [Link](https://www.youtube.com/@sorinelectronics) |
 | 51 | Lewis Loflin | English | [Link](https://www.youtube.com/@LewisLoflin) |
+| 52 | The Engineering Experience | English | [Link](https://www.youtube.com/@TheEngineeringExperienceYT) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
