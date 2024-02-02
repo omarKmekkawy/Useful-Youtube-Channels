@@ -62,6 +62,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 50 | Sorin&Diana | English | [Link](https://www.youtube.com/@sorinelectronics) |
 | 51 | Lewis Loflin | English | [Link](https://www.youtube.com/@LewisLoflin) |
 | 52 | The Engineering Experience | English | [Link](https://www.youtube.com/@TheEngineeringExperienceYT) |
+| 53 | electronzapdotcom | English | [Link](https://www.youtube.com/@Electronzap) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
