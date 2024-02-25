@@ -63,6 +63,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 51 | Lewis Loflin | English | [Link](https://www.youtube.com/@LewisLoflin) |
 | 52 | The Engineering Experience | English | [Link](https://www.youtube.com/@TheEngineeringExperienceYT) |
 | 53 | electronzapdotcom | English | [Link](https://www.youtube.com/@Electronzap) |
+| 54 | Lantertronics - Aaron Lanterman | English | [Link](https://www.youtube.com/@Lantertronics) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
