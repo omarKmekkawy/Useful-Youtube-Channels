@@ -32,7 +32,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 22 | Ibrahim Elkhatib | Arabic | [Link](https://www.youtube.com/c/IbrahimElkhatib32) |
 | 23 | Lockdown Electronics | English | [Link](https://www.youtube.com/c/LockdownElectronics) |
 | 24 | Mr.Leamerz | English | [Link](https://www.youtube.com/c/JasonLeaman) |
-| 25 | Adrian S | English | [Link](https://www.youtube.com/user/adriansmith31) |
+| 25 | Adrian Smith | English | [Link](https://www.youtube.com/user/adriansmith31) |
 | 26 | Amar Mohamed | Arabic | [Link](https://www.youtube.com/channel/UCbYeE8lAx_hE1F1l3doflYg) |
 | 27 | Ahmed Halawa | Arabic | [Link](https://www.youtube.com/c/AhmedHalawa) |
 | 28 | Alan Yates | English | [Link](https://www.youtube.com/user/vk2zay) |
