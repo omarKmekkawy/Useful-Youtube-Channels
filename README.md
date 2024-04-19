@@ -65,7 +65,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 53 | electronzapdotcom | English | [Link](https://www.youtube.com/@Electronzap) |
 | 54 | Lantertronics - Aaron Lanterman | English | [Link](https://www.youtube.com/@Lantertronics) |
 | 55 | NNNI | English | [Link](https://www.youtube.com/@NNNILabs) |
-| 56 | Dmytro Engineering | [Link](https://www.youtube.com/@dmytroengineering) |
+| 56 | Dmytro Engineering | English | [Link](https://www.youtube.com/@dmytroengineering) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
