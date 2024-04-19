@@ -9,7 +9,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | Walid Issa   | Arabic   | [Link](https://www.youtube.com/channel/UCUNpxcO109gQx7yYxAtXHmA) |
-| 2 | Walid Issa Plus | English | [Link](https://www.youtube.com/c/AllElectronicsChannel/videos) |
+| 2 | Walid Issa Plus | English | [Link](https://www.youtube.com/c/AllElectronicsChannel) |
 | 3 | Walid Balid | Arabic | [Link](https://www.youtube.com/c/WalidBalid/) |
 | 4 | All Electronics Channel | English | [Link](https://www.youtube.com/c/AllElectronicsChannel) |
 | 5 | Omar Mekkawy | Arabic | [Link](https://www.youtube.com/OmarMekkawy) |
@@ -66,6 +66,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 54 | Lantertronics - Aaron Lanterman | English | [Link](https://www.youtube.com/@Lantertronics) |
 | 55 | NNNI | English | [Link](https://www.youtube.com/@NNNILabs) |
 | 56 | Dmytro Engineering | English | [Link](https://www.youtube.com/@dmytroengineering) |
+
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
@@ -76,7 +77,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | Ahmed Eldeeb   | Arabic   | [Link](https://www.youtube.com/channel/UC02vVZpySDPNRZvfju1tA8w) |
-| 2 | Embedded Training from Amr Ali | Arabic | [Link](https://www.youtube.com/channel/UC5NTpGcnlx3XwGAlFaYJnBg/videos) |
+| 2 | Embedded Training from Amr Ali | Arabic | [Link](https://www.youtube.com/channel/UC5NTpGcnlx3XwGAlFaYJnBg) |
 | 3 | Mohamed Zaghloul online courses | Arabic | [Link](https://www.youtube.com/channel/UCvF_QgqLpNm-LNi-GANvs_w) |
 | 4 | Khaled Magdy | Arabic | [Link](https://www.youtube.com/channel/UC5Rg0IiTHhtd8qs-DNBZBDQ) |
 | 5 | Ahmed Abd El-Ghafar Mohammed | Arabic | [Link](https://www.youtube.com/channel/UCQp1_vloxxLu7fMRw-A6V8A ) |
@@ -140,6 +141,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 25 | northwestrepair | English | [Link](https://www.youtube.com/@northwestrepair) |
 | 26 | Adamant IT | English | [Link](https://www.youtube.com/@Adamant_IT) |
 | 27 | Adamant IT 2 | English | [Link](https://www.youtube.com/@AdamantIT2) |
+
 # Lithium Batteries - DIY Electric Vehicle
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
@@ -147,10 +149,11 @@ Useful Youtube Channels for Electronics and Mechanical
 | 2 | Electrified Veronika | English | [Link](https://www.youtube.com/c/ElectrifiedVeronika) |
 | 3 | DavidPoz  | English | [Link](https://www.youtube.com/@DavidPozEnergy) |
 | 4 | vuaeco | English | [Link](https://www.youtube.com/@vuaeco) |
-| 5 | EETEngineer | English | [Link](https://www.youtube.com/@eetengineer/videos) |
+| 5 | EETEngineer | English | [Link](https://www.youtube.com/@eetengineer) |
 | 6 | Dala's EV Repair | English | [Link](https://www.youtube.com/@DalasEVRepair) |
 | 7 | Dr. Max Mauro Santos | portuguese | [Link](https://www.youtube.com/@maxmaurodsantos) |
 | 8 | Flying tools | English | [Link](https://www.youtube.com/@flyingtools)
+
 # Embedded Linux
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
@@ -160,7 +163,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 4 | leepspvideo | English | [Link](https://www.youtube.com/@leepspvideo) |
 | 5 | ETA PRIME | English | [Link](https://www.youtube.com/@ETAPRIME) |
 | 6 | Reda Maher | Arabic | [Link](https://www.youtube.com/@Reda_Maher) |
-| 7 | Joe Collins | English | [Link](https://www.youtube.com/@EzeeLinux/videos) |
+| 7 | Joe Collins | English | [Link](https://www.youtube.com/@EzeeLinux) |
 | 8 | Mohamed Abdulaal - Embinux | English | [Link](https://www.youtube.com/@mohamedabdulaal-embinux5933) |
 
 # HAM Radio - Amateur radio - RF
@@ -173,7 +176,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 5 | QRP Labs | English | [Link](https://www.youtube.com/@QRPLabs) |
 | 6 | Adrian Salt | English | [Link](https://www.youtube.com/@adriansalt4521) |
 | 7 | Blueglow Electronics | English | [Link](https://www.youtube.com/@Blueglow) |
-
+| 8 | Charlie Morris ZL2CTM | English | [Link](https://www.youtube.com/@CharlieMorrisZL2CTM) |
 # EMC Compliance
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
@@ -201,6 +204,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 2 | Dorian Develops | English | [Link](https://www.youtube.com/c/DorianDevelops) |
 | 3 | Queso Fuego | English | [Link](https://www.youtube.com/@QuesoFuego) |
 | 4 | Caleb Curry | English | [Link](https://www.youtube.com/@codebreakthrough) |
+
 # Vintage Electronics - Hardware Reverse Engineering - Repair
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
@@ -210,7 +214,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 4 | Usagi Electric | English | [Link](https://www.youtube.com/c/Nakazoto) |
 | 5 | BW's Technoshed | English | [Link](https://www.youtube.com/c/BWsTechnoshed) |
 | 6 | shango066 | English | [Link](https://www.youtube.com/user/shango066) |
-| 7 | Peter O'Neill | English | [Link](https://www.youtube.com/@peteroneill404/videos) |
+| 7 | Peter O'Neill | English | [Link](https://www.youtube.com/@peteroneill404) |
 | 8 | LGR  | English | [Link](https://www.youtube.com/user/phreakindee) |
 | 9 | Technology Connections | English | [Link](https://www.youtube.com/TechnologyConnections) |
 | 10 | Action Retro | English | [Link](https://www.youtube.com/ActionRetro) |
@@ -228,12 +232,13 @@ Useful Youtube Channels for Electronics and Mechanical
 | 23 | BigDog8882 | English | [Link](https://www.youtube.com/@bigdog8882) |
 | 24 | atkelar | English | [Link](https://www.youtube.com/@atkelar) |
 | 25 | Electronics Repair School | English | [Link](https://www.youtube.com/@electronicsrepairschool/) |
+
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | Eslam's Lab  | N/A | [Link](https://www.youtube.com/c/EslamsLab) |
 | 2 | Becky Stern | English | [Link](https://www.youtube.com/c/BeckyStern) |
-| 3 | Estefannie | English | [Link](https://www.youtube.com/c/Estefanniegg/videos) |
+| 3 | Estefannie | English | [Link](https://www.youtube.com/c/Estefanniegg) |
 | 4 | Stuff Made Here | English | [Link](https://www.youtube.com/StuffMadeHere) |
 | 5 | colinfurze | English | [Link](https://www.youtube.com/user/colinfurze) |
 | 6 | Essential Craftsman | English | [Link](https://www.youtube.com/@essentialcraftsman) |
@@ -251,6 +256,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 18 | Zack Freedman | English | [Link](https://www.youtube.com/@ZackFreedman) |
 | 19 | Simone Giertz | English | [Link](https://www.youtube.com/@simonegiertz) |
 | 20 | Mohammad Abdeltawab | Arabic | [Link](https://www.youtube.com/@MohammadAbdeltawab)
+
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
@@ -289,6 +295,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 10 | Raid Owl  | English | [Link](https://www.youtube.com/@RaidOwl) |
 | 11 | Dev Odyssey | English | [Link](https://www.youtube.com/@DevOdyssey) |
 | 12 | apalrd's adventures | English | [Link](https://www.youtube.com/@apalrdsadventures) |
+
 # Engineering
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
