@@ -64,6 +64,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 52 | The Engineering Experience | English | [Link](https://www.youtube.com/@TheEngineeringExperienceYT) |
 | 53 | electronzapdotcom | English | [Link](https://www.youtube.com/@Electronzap) |
 | 54 | Lantertronics - Aaron Lanterman | English | [Link](https://www.youtube.com/@Lantertronics) |
+| 55 | NNNI | English | [Link](https://www.youtube.com/@NNNILabs) |
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
