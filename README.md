@@ -281,7 +281,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | Veritasium   | English  | [Link](https://www.youtube.com/c/veritasium) |
-
+| 2 | Obelus STEM | English | [Link](https://www.youtube.com/@hongselectronics4997) |
 # Computers - Networks
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
