@@ -198,6 +198,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 4 | Aaron Christophel | English | [Link](https://www.youtube.com/@atc1441) |
 | 5 | Maker's Fun Duck | English | [Link](https://www.youtube.com/@makersfunduck) |
 | 6 | David Bombal | English | [Link](https://www.youtube.com/@davidbombal) |
+| 7 | Lab 401 | English | [Link](https://www.youtube.com/@Lab401) |
 
 # Programming
 | # | Channel Name | Language | Link |
