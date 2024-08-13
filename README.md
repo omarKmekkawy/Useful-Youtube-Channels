@@ -145,6 +145,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 25 | northwestrepair | English | [Link](https://www.youtube.com/@northwestrepair) |
 | 26 | Adamant IT | English | [Link](https://www.youtube.com/@Adamant_IT) |
 | 27 | Adamant IT 2 | English | [Link](https://www.youtube.com/@AdamantIT2) |
+| 28 | Mainboard Medic | English | [Link](https://www.youtube.com/@MainboardMedic) |
 
 # Lithium Batteries - DIY Electric Vehicle
 | # | Channel Name | Language | Link |
