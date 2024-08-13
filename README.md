@@ -115,6 +115,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 6 | Csongor Varga | English | [Link](https://www.youtube.com/@csongorvarga) |
 | 7 | Smart Home Solver | English | [Link](https://www.youtube.com/@SmartHomeSolver) |
 | 8 | mostlychris | English | [Link](https://www.youtube.com/@mostlychris) |
+| 9 | Taste The Code | English | [Link](https://www.youtube.com/@TasteTheCode) |
 
 # Fixing Electronics - Repair
 | # | Channel Name | Language | Link |
