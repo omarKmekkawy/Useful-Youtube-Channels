@@ -70,6 +70,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 58 | Hong's Electronics | English | [Link](https://www.youtube.com/@hongselectronics4997) |
 | 59 | iforce2d | English | [Link](https://www.youtube.com/@iforce2d) |
 | 60 | electronzapdotcom | [Link](https://www.youtube.com/@Electronzap) |
+| 61 | Contextual Electronics | [Link](https://www.youtube.com/@contextualelectronics) |
 
 ## Digital Design
 | # | Channel Name | Language | Link |
