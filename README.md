@@ -269,6 +269,11 @@ Useful Youtube Channels for Electronics and Mechanical
 | 2 | Alec Steel   | English  | [Link](https://www.youtube.com/c/AlecSteele) |
 | 3 | JohnnyQ90    | English  | [Link](https://www.youtube.com/c/johnnyq90) |
 
+# Mechanical & Machines Repairing
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | James Condon | English  | [Link](https://www.youtube.com/@jcondon1) |
+
 # Mechatronics - Robotics
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
