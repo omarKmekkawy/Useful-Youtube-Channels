@@ -280,11 +280,13 @@ Useful Youtube Channels for Electronics and Mechanical
 | - | ------------ | -------- | ---- |
 | 1 | Matt's Machine Channel | English | [Link](https://www.youtube.com/@mattsmachinechannel) |
 | 2 | Steven Bennett | English | [Link](https://www.youtube.com/@StevenBennettMakes) |
+
 # Physics
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | Veritasium   | English  | [Link](https://www.youtube.com/c/veritasium) |
 | 2 | Obelus STEM | English | [Link](https://www.youtube.com/@hongselectronics4997) |
+
 # Computers - Networks
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
