@@ -69,6 +69,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 57 | bigclivedotcom | English | [Link](https://www.youtube.com/@bigclivedotcom) |
 | 58 | Hong's Electronics | English | [Link](https://www.youtube.com/@hongselectronics4997) |
 | 59 | iforce2d | English | [Link](https://www.youtube.com/@iforce2d) |
+| 60 | electronzapdotcom | [Link](https://www.youtube.com/@Electronzap) |
+
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
