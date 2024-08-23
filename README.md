@@ -97,7 +97,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 12 | Moatasem El Sayed      | Arabic  | [Link](https://www.youtube.com/channel/UCHTjN5FEITwRyb4IA3F8c4Q) |
 | 13 | CaliBeta | English | [Link](https://www.youtube.com/c/CaliBeta) |
 | 14 | Mohamed A.Elhay | Arabic | [Link](https://www.youtube.com/channel/UCxBuAlioJ4ce5DvDHe5GPfQ) |
-| 15 | Firas Faham فراس فحام | English | [Link](youtube.com/user/fifaham) |
+| 15 | Firas Faham فراس فحام | English | [Link](https://youtube.com/user/fifaham) |
 | 16 | Amar Mohamed | Arabic | [Link](https://www.youtube.com/channel/UCbYeE8lAx_hE1F1l3doflYg) |
 | 17 | Amgad Samir | Arabic | [Link](https://www.youtube.com/channel/UCMf8ZsyHCnU-ZpKbMFFNH_Q) |
 | 18 | Tagh_reed Said | Arabic | [Link](https://www.youtube.com/channel/UCj7ita0qpnZ-9VIqKPtneFA) |
