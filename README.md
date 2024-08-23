@@ -106,6 +106,18 @@ Useful Youtube Channels for Electronics and Mechanical
 | 21 | 0033mer | English | [Link](https://www.youtube.com/user/0033mer) |
 | 22 | Visual Micro | English | [Link](https://www.youtube.com/@visualmicro4389) |
 
+# Cybersecurity - Reverse Engineering - Hardware Hacking
+| # | Channel Name | Language | Link |
+| - | ------------ | -------- | ---- |
+| 1 | Joe Grand    | English  | [Link](https://www.youtube.com/c/JoeGrand) |
+| 2 | RECESSIM     | English  | [Link](https://www.youtube.com/c/RECESSIM) |
+| 3 | Flashback Team | English | [Link](https://www.youtube.com/c/FlashbackTeam) |
+| 4 | Aaron Christophel | English | [Link](https://www.youtube.com/@atc1441) |
+| 5 | Maker's Fun Duck | English | [Link](https://www.youtube.com/@makersfunduck) |
+| 6 | David Bombal | English | [Link](https://www.youtube.com/@davidbombal) |
+| 7 | Lab 401 | English | [Link](https://www.youtube.com/@Lab401) |
+| 8 | Cyb3rMaddy | English  | [Link](https://www.youtube.com/@Cyb3rMaddy) |
+
 # IOT
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
@@ -196,17 +208,6 @@ Useful Youtube Channels for Electronics and Mechanical
 | # | Channel Name | Language | Link | Project |
 | - | ------------ | -------- | ---- | ------- |
 | 1 | Stephen Hawes   | English  | [Link](https://www.youtube.com/c/StephenHawesVideo) | Pick and Place Machine for SMD |
-
-# Hardware Hacking
-| # | Channel Name | Language | Link |
-| - | ------------ | -------- | ---- |
-| 1 | Joe Grand    | English  | [Link](https://www.youtube.com/c/JoeGrand) |
-| 2 | RECESSIM     | English  | [Link](https://www.youtube.com/c/RECESSIM) |
-| 3 | Flashback Team | English | [Link](https://www.youtube.com/c/FlashbackTeam) |
-| 4 | Aaron Christophel | English | [Link](https://www.youtube.com/@atc1441) |
-| 5 | Maker's Fun Duck | English | [Link](https://www.youtube.com/@makersfunduck) |
-| 6 | David Bombal | English | [Link](https://www.youtube.com/@davidbombal) |
-| 7 | Lab 401 | English | [Link](https://www.youtube.com/@Lab401) |
 
 # Programming
 | # | Channel Name | Language | Link |
