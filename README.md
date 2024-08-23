@@ -186,6 +186,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 6 | Adrian Salt | English | [Link](https://www.youtube.com/@adriansalt4521) |
 | 7 | Blueglow Electronics | English | [Link](https://www.youtube.com/@Blueglow) |
 | 8 | Charlie Morris ZL2CTM | English | [Link](https://www.youtube.com/@CharlieMorrisZL2CTM) |
+
 # EMC Compliance
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
