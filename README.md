@@ -72,6 +72,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 60 | electronzapdotcom | English | [Link](https://www.youtube.com/@Electronzap) |
 | 61 | Contextual Electronics | English | [Link](https://www.youtube.com/@contextualelectronics) |
 | 62 | daveho hacks | English | [Link](https://www.youtube.com/@davehohacks) |
+| 63 | Thunderclap Labs | English | [Link](https://www.youtube.com/@ThunderclapLabs) |
+
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
