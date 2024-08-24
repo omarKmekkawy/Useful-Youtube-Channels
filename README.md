@@ -77,6 +77,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 65 | Ben Eater | English | [Link](https://www.youtube.com/@BenEater) |
 | 66 | PHILG2864 | English | [Link](https://www.youtube.com/@PHILG2864) |
 | 67 | Slu4 | English | [Link](https://www.youtube.com/@slu467) |
+| 68 | Sealio’s Projects | [Link](https://www.youtube.com/@sealiosprojects) |
 
 ## Digital Design
 | # | Channel Name | Language | Link |
