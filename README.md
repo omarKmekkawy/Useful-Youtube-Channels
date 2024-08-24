@@ -345,4 +345,4 @@ Useful Youtube Channels for Electronics and Mechanical
 # Electrical Installations
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
-| 1 | residualcurrent | English | [Link](https://www.youtube.com/@residualcurrent) |
+| 1 | Residual Electrical | English | [Link](https://www.youtube.com/@residualelectrical) |
