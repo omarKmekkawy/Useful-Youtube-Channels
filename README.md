@@ -74,6 +74,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 62 | daveho hacks | English | [Link](https://www.youtube.com/@davehohacks) |
 | 63 | Thunderclap Labs | English | [Link](https://www.youtube.com/@ThunderclapLabs) |
 | 64 | Charlie's Chips | English | [Link](https://www.youtube.com/@CharliesChips) |
+| 65 | Ben Eater | English | [Link](https://www.youtube.com/@BenEater) |
 
 ## Digital Design
 | # | Channel Name | Language | Link |
