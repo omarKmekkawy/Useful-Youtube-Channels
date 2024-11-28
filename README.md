@@ -78,7 +78,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 66 | PHILG2864 | English | [Link](https://www.youtube.com/@PHILG2864) |
 | 67 | Slu4 | English | [Link](https://www.youtube.com/@slu467) |
 | 68 | Sealio’s Projects | English | [Link](https://www.youtube.com/@sealiosprojects) |
-| 69 | Phil's Analog Basement | [Link](https://www.youtube.com/@philsanalogbasement) |
+| 69 | Phil's Analog Basement | English | [Link](https://www.youtube.com/@philsanalogbasement) |
 
 ## Digital Design
 | # | Channel Name | Language | Link |
