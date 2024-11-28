@@ -83,6 +83,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 71 | rehsd | English | [Link](https://www.youtube.com/@rehsd) |
 | 72 | FeedbackLoop | English | [Link](https://www.youtube.com/@feedback-loop) |
 | 73 | Reiner Schmidt | English | [Link](https://www.youtube.com/@MrReinerMSchmidt) |
+| 74 | Thomas Scherrer OZ2CPU Teardown | English | [Link](https://www.youtube.com/@TeardownOZ2CPU) |
 
 ## Digital Design
 | # | Channel Name | Language | Link |
