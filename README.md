@@ -81,6 +81,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 69 | Phil's Analog Basement | English | [Link](https://www.youtube.com/@philsanalogbasement) |
 | 70 | Electronics for the Inquisitive Experimenter | English | [Link](https://www.youtube.com/@eie_for_you) |
 | 71 | rehsd | English | [Link](https://www.youtube.com/@rehsd) |
+| 72 | FeedbackLoop | English | [Link](https://www.youtube.com/@feedback-loop) |
 
 ## Digital Design
 | # | Channel Name | Language | Link |
