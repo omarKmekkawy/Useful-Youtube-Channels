@@ -255,6 +255,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 23 | BigDog8882 | English | [Link](https://www.youtube.com/@bigdog8882) |
 | 24 | atkelar | English | [Link](https://www.youtube.com/@atkelar) |
 | 25 | Electronics Repair School | English | [Link](https://www.youtube.com/@electronicsrepairschool/) |
+| 26 | fenugrec | English | [Link](https://www.youtube.com/@fenugrec5697/) |
 
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
