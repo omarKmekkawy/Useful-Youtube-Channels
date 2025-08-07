@@ -304,7 +304,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
 | 1 | Matt's Machine Channel | English | [Link](https://www.youtube.com/@mattsmachinechannel) |
-| 2 | Steven Bennett | English | [Link](https://www.youtube.com/@StevenBennettMakes) |
+| 2 | Steven Bennett | English | [Link](https://www.youtube.com/@StevenBennettMakes) 
+| 3 | MrRodW | English | [Link](https://www.youtube.com/@MrRodW) |
 
 # Physics
 | # | Channel Name | Language | Link |
