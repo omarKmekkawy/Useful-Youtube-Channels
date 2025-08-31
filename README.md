@@ -84,7 +84,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 72 | FeedbackLoop | English | [Link](https://www.youtube.com/@feedback-loop) |
 | 73 | Reiner Schmidt | English | [Link](https://www.youtube.com/@MrReinerMSchmidt) |
 | 74 | Thomas Scherrer OZ2CPU Teardown | English | [Link](https://www.youtube.com/@TeardownOZ2CPU) |
-|75| Dave's Electronics | English | [Link](https://www.youtube.com/@daveselectronicslab) |
+| 75 | Dave's Electronics | English | [Link](https://www.youtube.com/@daveselectronicslab) |
+| 76 | StuckAtPrototype | English | [Link](https://www.youtube.com/@stuckatprototype) |
 
 ## Digital Design
 | # | Channel Name | Language | Link |
