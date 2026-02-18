@@ -86,6 +86,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 74 | Thomas Scherrer OZ2CPU Teardown | English | [Link](https://www.youtube.com/@TeardownOZ2CPU) |
 | 75 | Dave's Electronics | English | [Link](https://www.youtube.com/@daveselectronicslab) |
 | 76 | StuckAtPrototype | English | [Link](https://www.youtube.com/@stuckatprototype) |
+| 77 | BACKYARD ELECTRONICS | English | [Link](https://www.youtube.com/@gregbennett2437) |
 
 ## Digital Design
 | # | Channel Name | Language | Link |
