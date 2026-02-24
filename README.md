@@ -88,6 +88,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 76 | StuckAtPrototype | English | [Link](https://www.youtube.com/@stuckatprototype) |
 | 77 | BACKYARD ELECTRONICS | English | [Link](https://www.youtube.com/@gregbennett2437) |
 | 78 | NNNI | English | [Link](https://www.youtube.com/@NNNILabs) |
+| 79 | Alexander Hartdegen | English | [Link](https://www.youtube.com/@AIexanderHartdegen) |
+
 ## Digital Design
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
