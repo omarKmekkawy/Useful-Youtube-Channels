@@ -89,6 +89,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 77 | BACKYARD ELECTRONICS | English | [Link](https://www.youtube.com/@gregbennett2437) |
 | 78 | NNNI | English | [Link](https://www.youtube.com/@NNNILabs) |
 | 79 | Alexander Hartdegen | English | [Link](https://www.youtube.com/@AIexanderHartdegen) |
+| 80 | Koshiro Robot Creator | English | [Link](https://www.youtube.com/@Koshiro_Robot_Creator) |
+
 
 ## Digital Design
 | # | Channel Name | Language | Link |
