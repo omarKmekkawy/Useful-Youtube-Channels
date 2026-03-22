@@ -183,6 +183,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 27 | Adamant IT 2 | English | [Link](https://www.youtube.com/@AdamantIT2) |
 | 28 | Mainboard Medic | English | [Link](https://www.youtube.com/@MainboardMedic) |
 | 29 | Steve's Electronic Repair Shop | English | [Link](https://www.youtube.com/@StevesElectronicRepairShop) |
+| 30 | XrayTonyB | English | [Link](https://www.youtube.com/@xraytonyb) |
 
 # Lithium Batteries - DIY Electric Vehicle
 | # | Channel Name | Language | Link |
