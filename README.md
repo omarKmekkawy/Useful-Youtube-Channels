@@ -91,6 +91,8 @@ Useful Youtube Channels for Electronics and Mechanical
 | 79 | Alexander Hartdegen | English | [Link](https://www.youtube.com/@AIexanderHartdegen) |
 | 80 | Koshiro Robot Creator | English | [Link](https://www.youtube.com/@Koshiro_Robot_Creator) |
 | 81 | Neurochrome | English | [Link](https://www.youtube.com/@Neurochrome2010) |
+| 82 | Bettina Neumryr | English | [Link](https://www.youtube.com/@bettinaneumryr) |
+| 83 | The Active Region | English | [Link](https://www.youtube.com/@Kev_31779) |
 
 ## Digital Design
 | # | Channel Name | Language | Link |
