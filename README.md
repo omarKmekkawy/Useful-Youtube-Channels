@@ -184,6 +184,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 28 | Mainboard Medic | English | [Link](https://www.youtube.com/@MainboardMedic) |
 | 29 | Steve's Electronic Repair Shop | English | [Link](https://www.youtube.com/@StevesElectronicRepairShop) |
 | 30 | XrayTonyB | English | [Link](https://www.youtube.com/@xraytonyb) |
+| 31 | Novalux Stereophonic | English | [Link](https://www.youtube.com/@NovaluxStereophonic) |
 
 # Lithium Batteries - DIY Electric Vehicle
 | # | Channel Name | Language | Link |
