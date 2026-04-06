@@ -313,6 +313,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | - | ------------ | -------- | ---- |
 | 1 | MineProbe - RDI Project     | English  | [Link](https://www.youtube.com/channel/UChEuyu1jeKjJIL0EVrkmS4w) |
 | 2 | simplefoc | English | [Link](https://www.youtube.com/user/theskura) |
+| 3 | Matt Bilsky | English | [Link](https://www.youtube.com/@MattBilsky/videos) |
 
 # CNC Machines
 | # | Channel Name | Language | Link |
