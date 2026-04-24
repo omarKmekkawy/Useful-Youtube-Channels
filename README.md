@@ -187,6 +187,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 31 | Novalux Stereophonic | English | [Link](https://www.youtube.com/@NovaluxStereophonic) |
 | 32 | Nic's Fix | English | [Link](https://www.youtube.com/@NicsFix) |
 | 33 | MikesRadioRepair | English | [Link](https://www.youtube.com/@mikesradiorepair) |
+| 34 | CmdrSoyo | English | [Link](https://www.youtube.com/@CmdrSoyo) |
 
 # Lithium Batteries - DIY Electric Vehicle
 | # | Channel Name | Language | Link |
