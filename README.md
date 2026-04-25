@@ -298,6 +298,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 18 | Zack Freedman | English | [Link](https://www.youtube.com/@ZackFreedman) |
 | 19 | Simone Giertz | English | [Link](https://www.youtube.com/@simonegiertz) |
 | 20 | Mohammad Abdeltawab | Arabic | [Link](https://www.youtube.com/@MohammadAbdeltawab)
+| 21 | DIY Engineering | English | [Link](https://www.youtube.com/@DIYEngineering) |
 
 # Mechanical Design & Fabrication
 | # | Channel Name | Language | Link |
