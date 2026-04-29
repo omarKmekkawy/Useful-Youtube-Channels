@@ -274,6 +274,7 @@ Useful Youtube Channels for Electronics and Mechanical
 | 26 | fenugrec | English | [Link](https://www.youtube.com/@fenugrec5697/) |
 | 27 | More Fun Making It | English | [Link](https://www.youtube.com/@MoreFunMakingIt) |
 | 28 | More Fun Fixing It | English | [Link](https://www.youtube.com/@morefunfixingit) |
+| 29 | MoonWalker | English | [Link](https://www.youtube.com/@MoonWalker1010) |
 
 # Do It Yourself (DIY)
 | # | Channel Name | Language | Link |
